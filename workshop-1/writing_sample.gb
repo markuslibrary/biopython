@@ -1,0 +1,24 @@
+LOCUS       Seq1                      30 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Seq1 This is a description of Sequence 1.
+ACCESSION   Seq1
+VERSION     Seq1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 acgtacgatc agtaggcatc agtcactact
+//
+LOCUS       Seq2                      30 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Seq2 This is a description of Sequence 2.
+ACCESSION   Seq2
+VERSION     Seq2
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 actcaatggg atcatgtact gactacgtac
+//
