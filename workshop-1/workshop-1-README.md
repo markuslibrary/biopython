@@ -3,7 +3,7 @@
 The contents of this jupyter notebook are preceded by:
 
 1. An overview of sequence data
-2. Instructions for a recommended installation of Python/Biopython using miniconda, as well as the importance of managing Python environments properly.
+2. Instructions for a recommended installation of Python/Biopython using miniconda, as well as the importance of managing Python environments properly. (see the [HPC Guide](https://hpcguide.rockefeller.edu/guides/conda.html))
 
 ## Sample Data
 
@@ -19,6 +19,6 @@ Start from base in the miniconda command prompt interface (replace the Python ve
 conda create -n biopython python=3.11
 conda activate biopython
 pip install biopython
-pip install ipython
+pip install ipykernel
 pip install wget
 ```
