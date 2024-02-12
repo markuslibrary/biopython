@@ -19,6 +19,6 @@ Start from base in the miniconda command prompt interface (replace the Python ve
 conda create -n biopython python=3.11
 conda activate biopython
 pip install biopython
-pip install ipython
+pip install ipykernel
 pip install wget
 ```
