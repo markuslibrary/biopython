@@ -1,4 +1,576 @@
 
+PMID- 38498558
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240318
+IS  - 2223-7747 (Print)
+IS  - 2223-7747 (Electronic)
+IS  - 2223-7747 (Linking)
+VI  - 13
+IP  - 4
+DP  - 2024 Feb 16
+TI  - Antioxidant Activity and Seasonal Variations in the Composition of Insoluble 
+      Fiber from the Cladodes of Opuntia ficus-indica (L.) Miller: Development of New 
+      Extraction Procedures to Improve Fiber Yield.
+LID - 10.3390/plants13040544 [doi]
+LID - 544
+AB  - Opuntia ficus-indica (L.) Miller is a plant belonging to the Cactaceae family 
+      adapted to live in environments characterized by long periods of drought and arid 
+      or desert climates. This plant is characterized by an aerial part composed of 
+      structures transformed by branches, called "cladodes", which are essential to 
+      reduce excessive perspiration of water and appear covered with thorns. The 
+      composition of the cladodes includes water, polysaccharides, fiber, proteins, 
+      vitamins, fatty acids, sterols, polyphenols, and minerals. The main purposes of 
+      this scientific work are (a) to compare the insoluble fiber (IF) extracted from 
+      the cladodes of O. ficus-indica belonging to the same plant but collected in 
+      different seasonal periods (winter and summer) and develop new extraction 
+      protocols that are able to improve the yield obtained and (b) evaluate the 
+      antioxidant potential of the fiber and study possible variations as a result of 
+      the extraction protocol chosen. The first objective was achieved (1) by measuring 
+      the amount of IF extracted from cladodes harvested in winter and summer (CW and 
+      CS, respectively) and (2) by modifying three variables involved in the fiber 
+      extraction protocol. To achieve the second objective, the following experiments 
+      were carried out: (1) measurement of the antioxidant potential of IF in CW and 
+      CS; (2) measurement of cellular reactive oxygen species; (3) measurement of the 
+      activity of some antioxidant enzymes; and (4) comparison of the polyphenol 
+      content in CW and CS. In conclusion, the results obtained showed that the IF 
+      extraction process can be improved, achieving a uniform yield regardless of 
+      seasonality; the antioxidant effect may vary depending on the extraction 
+      protocol.
+FAU - Caminiti, Rosamaria
+AU  - Caminiti R
+AD  - IRC-FSH Center, Department of Health Sciences, University "Magna Graecia" of 
+      Catanzaro, Germaneto, 88100 Catanzaro, Italy.
+FAU - Serra, Maria
+AU  - Serra M
+AD  - IRC-FSH Center, Department of Health Sciences, University "Magna Graecia" of 
+      Catanzaro, Germaneto, 88100 Catanzaro, Italy.
+FAU - Nucera, Saverio
+AU  - Nucera S
+AD  - IRC-FSH Center, Department of Health Sciences, University "Magna Graecia" of 
+      Catanzaro, Germaneto, 88100 Catanzaro, Italy.
+FAU - Ruga, Stefano
+AU  - Ruga S
+AUID- ORCID: 0009-0008-0401-4027
+AD  - IRC-FSH Center, Department of Health Sciences, University "Magna Graecia" of 
+      Catanzaro, Germaneto, 88100 Catanzaro, Italy.
+FAU - Oppedisano, Francesca
+AU  - Oppedisano F
+AUID- ORCID: 0000-0003-0930-8987
+AD  - IRC-FSH Center, Department of Health Sciences, University "Magna Graecia" of 
+      Catanzaro, Germaneto, 88100 Catanzaro, Italy.
+FAU - Scarano, Federica
+AU  - Scarano F
+AD  - IRC-FSH Center, Department of Health Sciences, University "Magna Graecia" of 
+      Catanzaro, Germaneto, 88100 Catanzaro, Italy.
+FAU - Macri, Roberta
+AU  - Macri R
+AUID- ORCID: 0000-0002-2345-6751
+AD  - IRC-FSH Center, Department of Health Sciences, University "Magna Graecia" of 
+      Catanzaro, Germaneto, 88100 Catanzaro, Italy.
+FAU - Muscoli, Carolina
+AU  - Muscoli C
+AUID- ORCID: 0000-0002-1047-4467
+AD  - IRC-FSH Center, Department of Health Sciences, University "Magna Graecia" of 
+      Catanzaro, Germaneto, 88100 Catanzaro, Italy.
+FAU - Palma, Ernesto
+AU  - Palma E
+AUID- ORCID: 0000-0003-4199-207X
+AD  - IRC-FSH Center, Department of Health Sciences, University "Magna Graecia" of 
+      Catanzaro, Germaneto, 88100 Catanzaro, Italy.
+AD  - Veterinary Pharmacology Laboratory, Institute of Research for Food Safety and 
+      Health (IRC-FSH), Department of Health Sciences, University "Magna Graecia" of 
+      Catanzaro, Germaneto, 88100 Catanzaro, Italy.
+FAU - Musolino, Vincenzo
+AU  - Musolino V
+AD  - Laboratoy of Pharmaceutical Biology, IRC-FSH Center, Department of Health 
+      Sciences, University "Magna Graecia" of Catanzaro, Germaneto, 88100 Catanzaro, 
+      Italy.
+FAU - Statti, Giancarlo
+AU  - Statti G
+AUID- ORCID: 0000-0002-4780-452X
+AD  - Department of Pharmacy, Health and Nutritional Sciences, University of Calabria, 
+      87100 Cosenza, Italy.
+FAU - Mollace, Vincenzo
+AU  - Mollace V
+AUID- ORCID: 0000-0002-0392-7173
+AD  - IRC-FSH Center, Department of Health Sciences, University "Magna Graecia" of 
+      Catanzaro, Germaneto, 88100 Catanzaro, Italy.
+AD  - Fondazione R. Dulbecco, 88046 Lamezia Terme, Italy.
+FAU - Maiuolo, Jessica
+AU  - Maiuolo J
+AD  - Laboratoy of Pharmaceutical Biology, IRC-FSH Center, Department of Health 
+      Sciences, University "Magna Graecia" of Catanzaro, Germaneto, 88100 Catanzaro, 
+      Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20240216
+PL  - Switzerland
+TA  - Plants (Basel)
+JT  - Plants (Basel, Switzerland)
+JID - 101596181
+PMC - PMC10892137
+OTO - NOTNLM
+OT  - Opuntia ficus-indica
+OT  - antioxidant properties
+OT  - cladodes
+OT  - fiber extraction protocol
+OT  - insoluble fiber
+OT  - polyphenols
+COIS- The authors declare no conflicts of interest.
+EDAT- 2024/03/19 00:42
+MHDA- 2024/03/19 00:43
+PMCR- 2024/02/16
+CRDT- 2024/03/18 13:45
+PHST- 2024/01/02 00:00 [received]
+PHST- 2024/02/05 00:00 [revised]
+PHST- 2024/02/13 00:00 [accepted]
+PHST- 2024/03/19 00:43 [medline]
+PHST- 2024/03/19 00:42 [pubmed]
+PHST- 2024/03/18 13:45 [entrez]
+PHST- 2024/02/16 00:00 [pmc-release]
+AID - plants13040544 [pii]
+AID - plants-13-00544 [pii]
+AID - 10.3390/plants13040544 [doi]
+PST - epublish
+SO  - Plants (Basel). 2024 Feb 16;13(4):544. doi: 10.3390/plants13040544.
+
+PMID- 38495550
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240319
+IS  - 1941-2789 (Print)
+IS  - 2689-9175 (Electronic)
+IS  - 1941-2789 (Linking)
+VI  - 17
+IP  - 3
+DP  - 2024 Mar
+TI  - A Prospective, Multicenter, Open-label Study to Evaluate the Safety and Efficacy 
+      of a Cream Containing Xyloglucan, Pea Protein, and Opuntia ficus-indica Extract 
+      Versus Calcipotriol/Betamethasone in Adult Patients with Mild-to-moderate 
+      Psoriasis.
+PG  - 12-17
+AB  - OBJECTIVE: Psoriasis is a chronic, inflammatory skin disease, requiring local and 
+      systemic drugs according to disease severity. This study aims to investigate the 
+      efficacy and safety of a topical treatment containing xyloglucan, pea proteins 
+      and Opuntia ficus-indica extracts (XPO) compared to calcipotriol 
+      50mcg/betamethasone 0.5mg ointment (CB). METHODS: Forty-two patients diagnosed 
+      with mild-to-moderate plaque psoriasis were assigned 1:1 to XPO treatment or CB 
+      for 28 days. Disease status was assessed at baseline (V1), monitored every two 
+      weeks (V2, V3), and at follow-up (V4). Disease severity was assessed by PASI 
+      (Psoriasis Area and Severity Index), PGA (Physician's Global Assessment), and VAS 
+      (Visual Analog Scale for itching). Photos were taken before and after XPO 
+      treatment. Treatment efficacy was determined by comparing psoriasis severity at 
+      baseline to V3. Tolerability was assessed by monitoring the occurrence of adverse 
+      events. RESULTS: Both groups showed a statistically significant difference in 
+      PASI score from V1 to V2 (p=0.001, XPO; p=0.008, CB) and to V3 (p=0.001, XPO; 
+      p=0.004, CB). XPO achieved a PASI 50 score of 24 percent at V2 and 52 percent at 
+      V3 compared to CB (0% at V2 and 19% at V3). At V3, PGA was significantly reduced 
+      in both groups (p=0.003, XPO; p=0.001 CB). Both treatments significantly reduced 
+      itching at V2 (p=0.001, XPO; p=0.003, CB) and V3 (p=0.001, XPO; p=0.0005, CB). 
+      CONCLUSION: XPO showed similar efficacy to CB, significantly reducing disease 
+      severity, erythema, itching, induration, and scaling with an excellent 
+      tolerability profile.
+CI  - Copyright (c) 2024. Matrix Medical Communications. All rights reserved.
+FAU - Veraldi, Stefano
+AU  - Veraldi S
+AD  - Dr. Veraldi is with the Dermatological Center in Milan, Italy.
+FAU - Rosca, Valentina
+AU  - Rosca V
+AD  - Dr. Rosca is with Emergency County Hospital in Targoviste, Romania.
+FAU - Orasan, Remus Ioan
+AU  - Orasan RI
+AD  - Dr. Orasan is with Individual Medical Office of Dermatology in Cluj, Romania.
+FAU - Constantin, Magda
+AU  - Constantin M
+AD  - Dr. Constantin is with Colentina Clinical Hospital in Bucharest, Romania.
+FAU - Dodiuk-Gad, Roni P
+AU  - Dodiuk-Gad RP
+AD  - Dr. Dodiuk-Gad is with the Department of Dermatology at Emek Medical Center in 
+      Afula, Israel, the Division of Dermatology and Department of Medicine at the 
+      University of Toronto in Toronto, Canada, and the Department of Dermatology and 
+      Bruce Rappaport Faculty of Medicine at the Technion Institute of Technology in 
+      Haifa, Israel.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Clin Aesthet Dermatol
+JT  - The Journal of clinical and aesthetic dermatology
+JID - 101518173
+PMC - PMC10941852
+OTO - NOTNLM
+OT  - Opuntia ficus-indica extract
+OT  - PASI
+OT  - Psoriasis
+OT  - calcipotriol/betamethasone
+OT  - pea protein
+OT  - xyloglucan
+COIS- DISCLOSURES: Dr. Dodiuk-Gad is a consultant/investigator for Sanofi, AbbVie, 
+      Pfizer, Janssen, Novartis, La Roche-Posay, Dexcel, and Eli Lilly
+EDAT- 2024/03/18 06:44
+MHDA- 2024/03/18 06:45
+PMCR- 2024/03/01
+CRDT- 2024/03/18 04:22
+PHST- 2024/03/18 06:45 [medline]
+PHST- 2024/03/18 06:44 [pubmed]
+PHST- 2024/03/18 04:22 [entrez]
+PHST- 2024/03/01 00:00 [pmc-release]
+PST - ppublish
+SO  - J Clin Aesthet Dermatol. 2024 Mar;17(3):12-17.
+
+PMID- 38487287
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240316
+IS  - 0022-1155 (Print)
+IS  - 0975-8402 (Electronic)
+IS  - 0022-1155 (Linking)
+VI  - 61
+IP  - 5
+DP  - 2024 May
+TI  - Exploring the biofunctionalities of lactic fermented cactus pear (Opuntia elatior 
+      Mill.) fruit beverage: an exotic superfood.
+PG  - 969-982
+LID - 10.1007/s13197-023-05893-y [doi]
+AB  - Cactus pear fruit is known with many health benefits in ethnomedicine of 
+      countries like Mexico, Portugal, Chine, India etc. The study was aimed to develop 
+      biofunctional lactic fermented cactus pear fruit beverage to add values to the 
+      medicinal fruit. The processing parameters such as quantity of freeze dried 
+      cactus pear fruit powder, sucrose and incubation time were optimised using 
+      response surface methodology. The optimized product was then subjected to 
+      proximate compositional, physicochemical, biofunctional and microbial analysis. 
+      The lactic fermented cactus pear fruit beverage was prepared by mixing 12% [w/v] 
+      freeze dried cactus pear fruit powder and 3% sucrose in water, then pasteurised 
+      and inoculated with 3% Lactobacillus fermentum MTCC 25515 and Lactobacillus 
+      rhamnosus M9, then incubated at 37  degrees C for 6 h. The moisture content of the 
+      beverage was 87.77% and major constituent was carbohydrate (9.58% per wet matter 
+      basis). The 100 mL beverage contains 89.84 mg GAE phenolic compounds, 5.86 mg QE 
+      flavonoids, 71.82 mg betacyanin, 28.08 mg betaxanthin, 10.59 mg ascorbic acid. 
+      The beverage also exhibited 58% ABTS antioxidant activity. The beverage was shelf 
+      stable for 20 days at 7 +/- 1  degrees C. Such a biofunctional beverage loaded with 
+      antioxidant potential can be consumed as refreshing drink.
+CI  - (c) Association of Food Scientists & Technologists (India) 2023. Springer Nature or 
+      its licensor (e.g. a society or other partner) holds exclusive rights to this 
+      article under a publishing agreement with the author(s) or other rightsholder(s); 
+      author self-archiving of the accepted manuscript version of this article is 
+      solely governed by the terms of such publishing agreement and applicable law.
+FAU - Kathiriya, Mital R
+AU  - Kathiriya MR
+AD  - Department of Dairy Microbiology, SMC College of Dairy Science, Kamdhenu 
+      University, Anand, Gujarat 388110 India. ROR: https://ror.org/02k3mav14. GRID: 
+      grid.505999.9. ISNI: 0000 0004 6024 391X
+FAU - Vekariya, Yogesh
+AU  - Vekariya Y
+AD  - Department of Dairy Microbiology, SMC College of Dairy Science, Kamdhenu 
+      University, Anand, Gujarat 388110 India. ROR: https://ror.org/02k3mav14. GRID: 
+      grid.505999.9. ISNI: 0000 0004 6024 391X
+FAU - Hati, Subrota
+AU  - Hati S
+AUID- ORCID: 0000-0002-4010-204X
+AD  - Department of Dairy Microbiology, SMC College of Dairy Science, Kamdhenu 
+      University, Anand, Gujarat 388110 India. ROR: https://ror.org/02k3mav14. GRID: 
+      grid.505999.9. ISNI: 0000 0004 6024 391X
+LA  - eng
+PT  - Journal Article
+DEP - 20231212
+PL  - India
+TA  - J Food Sci Technol
+JT  - Journal of food science and technology
+JID - 0056471
+PMC - PMC10933228
+OTO - NOTNLM
+OT  - Antioxidant activity
+OT  - Ascorbic acid
+OT  - Biofunctional
+OT  - Cactus pear fruit beverage
+OT  - Lactic fermentation
+OT  - Lactobacillus
+COIS- Conflict of interestAll the authors declare that there is no conflict of 
+      interest.
+EDAT- 2024/03/15 06:43
+MHDA- 2024/03/15 06:44
+PMCR- 2025/05/01
+CRDT- 2024/03/15 04:06
+PHST- 2023/09/26 00:00 [revised]
+PHST- 2023/11/04 00:00 [accepted]
+PHST- 2025/05/01 00:00 [pmc-release]
+PHST- 2024/03/15 06:44 [medline]
+PHST- 2024/03/15 06:43 [pubmed]
+PHST- 2024/03/15 04:06 [entrez]
+AID - 5893 [pii]
+AID - 10.1007/s13197-023-05893-y [doi]
+PST - ppublish
+SO  - J Food Sci Technol. 2024 May;61(5):969-982. doi: 10.1007/s13197-023-05893-y. Epub 
+      2023 Dec 12.
+
+PMID- 38483713
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240318
+LR  - 20240318
+IS  - 1573-7438 (Electronic)
+IS  - 0049-4747 (Linking)
+VI  - 56
+IP  - 2
+DP  - 2024 Mar 14
+TI  - Full-fat corn germ improves the performance and milk fat yield of Girolando cows 
+      fed sugarcane bagasse and cactus cladodes as forage sources.
+PG  - 104
+LID - 10.1007/s11250-024-03947-7 [doi]
+AB  - We investigated the effects of replacing ground corn with full-fat corn germ 
+      (FFCG) on milk production, milk composition, and nutrient use in cows fed 
+      sugarcane bagasse and cactus cladodes. Ten multiparous Girolando cows (average 
+      body weight 500 +/- 66 kg, 90 +/- 15 days in milk) were distributed in a replicated 
+      5 x 5 Latin Square and assigned to five dietary treatments containing 0%, 25%, 
+      50%, 75%, or 100% of full-fat corn germ in substitution to ground corn. Full-fat 
+      corn germ increased fat-corrected milk yield by 2.2 kg/day and the synthesis of 
+      fat, lactose, and total solids in milk by 94.4, 60.0, and 201.10 g/day, 
+      respectively (p < 0.05). Cows fed corn germ quadratically increased (p < 0.05) 
+      dry matter intake by 1.01 kg/day, with the intake of crude protein and total 
+      digestible nutrients following the same pattern. Conversely, the substitution of 
+      corn for full-fat corn germ linearly reduced (p < 0.05) the total non-fiber 
+      carbohydrate intake from 5.79 to 4.40 kg/d. Except for ether extract and 
+      non-fiber carbohydrates, full-fat corn germ did not alter (p > 0.05) nutrient 
+      digestibility. Cows fed corn germ excreted less (p < 0.05) urea-N in milk and 
+      urine N. These results demonstrate that full-fat corn germ can partially replace 
+      ground corn to enhance the milk production efficiency of crossbred cows fed 
+      cactus cladodes and sugarcane bagasse. Furthermore, including sugarcane bagasse 
+      in FFCG-supplemented diets prevents milk fat depression in cows fed cactus 
+      cladodes.
+CI  - (c) 2024. The Author(s), under exclusive licence to Springer Nature B.V.
+FAU - da Silva, Camila S
+AU  - da Silva CS
+AUID- ORCID: 0000-0002-4790-7932
+AD  - Departamento de Zootecnia, Universidade Federal Rural de Pernambuco, Rua Dom 
+      Manoel de Medeiros, s/n, Dois Irmaos, Recife, PE, 52171-900, Brasil. 
+      camilaszootecnia@gmail.com.
+AD  - , Rua Dom Manoel de Medeiros, Recife, PE, 52171900, Brasil. 
+      camilaszootecnia@gmail.com.
+FAU - da Gama, Marco Antonio S
+AU  - da Gama MAS
+AUID- ORCID: 0000-0002-1970-5882
+AD  - Embrapa Pecuaria Sudeste, Rodovia Washington Luiz Km 234, Fazenda Canchim, Sao 
+      Carlos, SP, 13560-970, Brasil.
+FAU - Silva, Erick Alexandre M
+AU  - Silva EAM
+AUID- ORCID: 0000-0002-6750-4006
+AD  - Departamento de Zootecnia, Universidade Federal Rural de Pernambuco, Rua Dom 
+      Manoel de Medeiros, s/n, Dois Irmaos, Recife, PE, 52171-900, Brasil.
+FAU - Ribeiro, Emilia F
+AU  - Ribeiro EF
+AUID- ORCID: 0000-0002-4287-3446
+AD  - Departamento de Zootecnia, Universidade Federal Rural de Pernambuco, Rua Dom 
+      Manoel de Medeiros, s/n, Dois Irmaos, Recife, PE, 52171-900, Brasil.
+FAU - Felix, Silas B
+AU  - Felix SB
+AUID- ORCID: 0000-0001-8449-5861
+AD  - Departamento de Zootecnia, Universidade Federal Rural de Pernambuco, Rua Dom 
+      Manoel de Medeiros, s/n, Dois Irmaos, Recife, PE, 52171-900, Brasil.
+FAU - Monteiro, Carolina C F
+AU  - Monteiro CCF
+AUID- ORCID: 0000-0001-6738-7375
+AD  - Departmento de Zootecnia, Universidade Estadual de Alagoas, BR-316, 26, Santana 
+      do Ipanema, AL, 57500-000, Brasil.
+FAU - Mora-Luna, Robert E
+AU  - Mora-Luna RE
+AUID- ORCID: 0000-0001-8439-784X
+AD  - Facultad de Agronomia e Ingenieria Forestal, Pontificia Universidad Catolica de 
+      Chile, Avenida Vicuna Mackenna, Santiago, Macul, 4860, 6904411, Chile.
+FAU - de Oliveira, Julio Cesar V
+AU  - de Oliveira JCV
+AUID- ORCID: 0000-0002-8318-2721
+AD  - Instituto Agronomico de Pernambuco, BR-232, km 253, 56, Arcoverde, PE, 500-000, 
+      Brasil.
+FAU - Dos Santos, Djalma C
+AU  - Dos Santos DC
+AUID- ORCID: 0000-0002-1194-300X
+AD  - Instituto Agronomico de Pernambuco, BR-232, km 253, 56, Arcoverde, PE, 500-000, 
+      Brasil.
+FAU - de Ferreira, Marcelo A
+AU  - de Ferreira MA
+AUID- ORCID: 0000-0002-9155-4388
+AD  - Departamento de Zootecnia, Universidade Federal Rural de Pernambuco, Rua Dom 
+      Manoel de Medeiros, s/n, Dois Irmaos, Recife, PE, 52171-900, Brasil.
+LA  - eng
+GR  - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior/Coordenacao de 
+      Aperfeicoamento de Pessoal de Nivel Superior/
+GR  - DryGrow Foundation/DryGrow Foundation/
+PT  - Journal Article
+DEP - 20240314
+PL  - United States
+TA  - Trop Anim Health Prod
+JT  - Tropical animal health and production
+JID - 1277355
+RN  - 9006-97-7 (bagasse)
+RN  - 9004-34-6 (Cellulose)
+RN  - 0 (Dietary Carbohydrates)
+SB  - IM
+MH  - Female
+MH  - Cattle
+MH  - Animals
+MH  - Milk/metabolism
+MH  - Cellulose/metabolism
+MH  - Zea mays
+MH  - Lactation
+MH  - *Saccharum
+MH  - *Cactaceae
+MH  - Diet/veterinary
+MH  - Dietary Carbohydrates/metabolism
+MH  - Digestion
+MH  - Rumen/metabolism
+MH  - Silage/analysis
+OTO - NOTNLM
+OT  - Opuntia Sp
+OT  - Co-product
+OT  - Lipid supplementation
+OT  - Milk fat
+EDAT- 2024/03/14 18:42
+MHDA- 2024/03/18 06:44
+CRDT- 2024/03/14 12:23
+PHST- 2023/06/26 00:00 [received]
+PHST- 2024/03/01 00:00 [accepted]
+PHST- 2024/03/18 06:44 [medline]
+PHST- 2024/03/14 18:42 [pubmed]
+PHST- 2024/03/14 12:23 [entrez]
+AID - 10.1007/s11250-024-03947-7 [pii]
+AID - 10.1007/s11250-024-03947-7 [doi]
+PST - epublish
+SO  - Trop Anim Health Prod. 2024 Mar 14;56(2):104. doi: 10.1007/s11250-024-03947-7.
+
+PMID- 38474715
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240314
+LR  - 20240315
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 16
+IP  - 5
+DP  - 2024 Feb 21
+TI  - A Randomized, Double-Blind, Placebo-Controlled Trial: Efficacy of Opuntia 
+      ficus-indica Prebiotic Supplementation in Subjects with Gut Dysbiosis.
+LID - 10.3390/nu16050586 [doi]
+LID - 586
+AB  - Gut dysbiosis refers to an imbalance in gut microbiota composition and function. 
+      Opuntia ficus-indica extract has been shown to modulate gut microbiota by 
+      improving SCFA production in vivo and gastrointestinal discomfort (GD) in humans. 
+      The aim of this study was to demonstrate the efficacy of Odilia(TM) on 
+      gastrointestinal health by changing the microbial diversity of species involved 
+      in inflammation, immunity, oxidation, and the brain-gut-muscle axis. A 
+      randomized, double-blind clinical trial was conducted in 80 adults with gut 
+      dysbiosis. The intervention consisted of a 300 mg daily intake of Odilia(TM) (n = 
+      40) or maltodextrin as a placebo (n = 40), administered for 8 weeks. Intervention 
+      effect was evaluated using 16S metagenomics and GIQLI/GSAS scores at baseline, at 
+      4 and 8 weeks. Eight weeks of Odilia(TM) supplementation positively modulates gut 
+      microbiota composition with a significant reduction in the Firmicutes to 
+      Bacteroidetes ratio (p = 0.0012). Relative abundances of beneficial bacteria 
+      (Bacteroides and Clostridium_XIVa) were significantly increased (p < 0.001), in 
+      contrast to a significant reduction in pro-inflammatory bacteria (p < 0.001). 
+      Accordingly, GIQLI and GSAS scores revealed successful improvement in GD. 
+      Odilia(TM) may represent an effective and well-tolerated treatment in subjects 
+      with gut dysbiosis.
+FAU - Mellai, Marta
+AU  - Mellai M
+AD  - Department of Health Sciences, University of Piemonte Orientale, 28100 Novara, 
+      Italy.
+AD  - Genomics & Transcriptomics Unit, Center for Translational Research on Autoimmune 
+      and Allergic Disease, 28100 Novara, Italy.
+FAU - Allesina, Marta
+AU  - Allesina M
+AD  - Department of Health Sciences, University of Piemonte Orientale, 28100 Novara, 
+      Italy.
+FAU - Edoardo, Benedetto
+AU  - Edoardo B
+AD  - GIGA-CP Italian Association for Primary Care Gastroenterology, 87036 Rende, 
+      Italy.
+FAU - Cascella, Federica
+AU  - Cascella F
+AD  - Department of Health Sciences, University of Piemonte Orientale, 28100 Novara, 
+      Italy.
+FAU - Nobile, Vincenzo
+AU  - Nobile V
+AUID- ORCID: 0000-0001-9147-302X
+AD  - R&D Department, Complife Italia S.r.l., 27028 San Martino Siccomario, Italy.
+FAU - Spina, Amelia
+AU  - Spina A
+AD  - Nutratech S.r.l., Spin-Off of University of Calabria, 87036 Rende, Italy.
+FAU - Amone, Fabio
+AU  - Amone F
+AD  - Nutratech S.r.l., Spin-Off of University of Calabria, 87036 Rende, Italy.
+FAU - Zaccaria, Vincenzo
+AU  - Zaccaria V
+AUID- ORCID: 0000-0002-8143-2838
+AD  - R&D Department, Bionap S.r.l., 95032 Belpasso, Italy.
+FAU - Insolia, Violetta
+AU  - Insolia V
+AD  - Alma Mater Europea, 2000 Maribor, Slovenia.
+FAU - Perri, Anna
+AU  - Perri A
+AUID- ORCID: 0000-0002-2852-0919
+AD  - Department of Experimental and Clinical Medicine, Magna Grecia University of 
+      Catanzaro, 88100 Catanzaro, Italy.
+FAU - Lofaro, Danilo
+AU  - Lofaro D
+AUID- ORCID: 0000-0002-2081-463X
+AD  - Department of Mechanical, Energy, Management Engineering, University of Calabria, 
+      87036 Rende, Italy.
+FAU - Puoci, Francesco
+AU  - Puoci F
+AUID- ORCID: 0000-0002-5963-6762
+AD  - Department of Pharmacy, Health and Nutritional Sciences, University of Calabria, 
+      87100 Cosenza, Italy.
+LA  - eng
+GR  - 0002559/2021 Rev.02 by 08/04/2022/Bionap S.r.l./
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20240221
+PL  - Switzerland
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+RN  - 0 (Prebiotics)
+SB  - IM
+MH  - Adult
+MH  - Humans
+MH  - *Prebiotics
+MH  - *Opuntia
+MH  - Dysbiosis/microbiology
+MH  - Feces/microbiology
+MH  - Bacteria
+MH  - Double-Blind Method
+PMC - PMC10934938
+OTO - NOTNLM
+OT  - 16S rDNA
+OT  - Opuntia ficus-indica
+OT  - dysbiosis
+OT  - fibers
+OT  - gut
+OT  - prebiotics
+OT  - sequencing
+COIS- Vincenzo Nobile is employee of Complife Italia S.r.l. and have no conflict of 
+      interest to disclose. Amelia Spina and Fabio Amone have no conflict of interest 
+      to disclose. Vincenzo Zaccaria is a Bionap S.r.l. employee. This does not alter 
+      the author's adherence to all the journal policies on sharing data and materials. 
+      The other authors declare no conflicts of interest. The funder had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript; or in the decision to publish the results.
+EDAT- 2024/03/13 06:47
+MHDA- 2024/03/14 06:47
+PMCR- 2024/02/21
+CRDT- 2024/03/13 01:27
+PHST- 2024/01/08 00:00 [received]
+PHST- 2024/02/06 00:00 [revised]
+PHST- 2024/02/17 00:00 [accepted]
+PHST- 2024/03/14 06:47 [medline]
+PHST- 2024/03/13 06:47 [pubmed]
+PHST- 2024/03/13 01:27 [entrez]
+PHST- 2024/02/21 00:00 [pmc-release]
+AID - nu16050586 [pii]
+AID - nutrients-16-00586 [pii]
+AID - 10.3390/nu16050586 [doi]
+PST - epublish
+SO  - Nutrients. 2024 Feb 21;16(5):586. doi: 10.3390/nu16050586.
+
 PMID- 38450028
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -86,12 +658,14 @@ COIS- The authors declare that the research was conducted in the absence of any
       review process and the final decision.
 EDAT- 2024/03/07 06:43
 MHDA- 2024/03/07 06:44
+PMCR- 2024/01/01
 CRDT- 2024/03/07 04:13
 PHST- 2023/12/21 00:00 [received]
 PHST- 2024/02/12 00:00 [accepted]
 PHST- 2024/03/07 06:44 [medline]
 PHST- 2024/03/07 06:43 [pubmed]
 PHST- 2024/03/07 04:13 [entrez]
+PHST- 2024/01/01 00:00 [pmc-release]
 AID - 10.3389/fvets.2024.1359213 [doi]
 PST - epublish
 SO  - Front Vet Sci. 2024 Feb 21;11:1359213. doi: 10.3389/fvets.2024.1359213. 
@@ -351,6 +925,7 @@ OT  - phenolic compounds
 COIS- The authors declare no conflict of interest.
 EDAT- 2024/02/24 11:45
 MHDA- 2024/02/26 06:43
+PMCR- 2024/02/09
 CRDT- 2024/02/24 01:15
 PHST- 2023/12/23 00:00 [received]
 PHST- 2024/02/03 00:00 [revised]
@@ -358,6 +933,7 @@ PHST- 2024/02/06 00:00 [accepted]
 PHST- 2024/02/26 06:43 [medline]
 PHST- 2024/02/24 11:45 [pubmed]
 PHST- 2024/02/24 01:15 [entrez]
+PHST- 2024/02/09 00:00 [pmc-release]
 AID - nu16040499 [pii]
 AID - nutrients-16-00499 [pii]
 AID - 10.3390/nu16040499 [doi]
@@ -445,6 +1021,7 @@ OT  - obese
 COIS- The authors declare no conflicts of interest.
 EDAT- 2024/02/24 11:43
 MHDA- 2024/02/24 11:44
+PMCR- 2024/02/15
 CRDT- 2024/02/24 01:08
 PHST- 2024/01/12 00:00 [received]
 PHST- 2024/02/02 00:00 [revised]
@@ -452,6 +1029,7 @@ PHST- 2024/02/07 00:00 [accepted]
 PHST- 2024/02/24 11:44 [medline]
 PHST- 2024/02/24 11:43 [pubmed]
 PHST- 2024/02/24 01:08 [entrez]
+PHST- 2024/02/15 00:00 [pmc-release]
 AID - foods13040587 [pii]
 AID - foods-13-00587 [pii]
 AID - 10.3390/foods13040587 [doi]
@@ -801,6 +1379,7 @@ PMC - PMC10872770
 COIS- The authors declare that they have no conflicts of interest.
 EDAT- 2024/02/19 06:42
 MHDA- 2024/02/19 06:43
+PMCR- 2024/02/09
 CRDT- 2024/02/19 04:07
 PHST- 2023/04/25 00:00 [received]
 PHST- 2024/01/13 00:00 [revised]
@@ -808,6 +1387,7 @@ PHST- 2024/01/20 00:00 [accepted]
 PHST- 2024/02/19 06:43 [medline]
 PHST- 2024/02/19 06:42 [pubmed]
 PHST- 2024/02/19 04:07 [entrez]
+PHST- 2024/02/09 00:00 [pmc-release]
 AID - 10.1155/2024/7939465 [doi]
 PST - epublish
 SO  - Scientifica (Cairo). 2024 Feb 9;2024:7939465. doi: 10.1155/2024/7939465. 
@@ -907,12 +1487,14 @@ OT  - Prickly pear cacti
 COIS- The authors declare that they have no competing interests.
 EDAT- 2024/02/16 06:43
 MHDA- 2024/02/19 06:43
+PMCR- 2024/02/12
 CRDT- 2024/02/16 03:47
 PHST- 2023/10/06 00:00 [received]
 PHST- 2024/01/09 00:00 [accepted]
 PHST- 2024/02/19 06:43 [medline]
 PHST- 2024/02/16 06:43 [pubmed]
 PHST- 2024/02/16 03:47 [entrez]
+PHST- 2024/02/12 00:00 [pmc-release]
 AID - 16861 [pii]
 AID - 10.7717/peerj.16861 [doi]
 PST - epublish
@@ -920,12 +1502,13 @@ SO  - PeerJ. 2024 Feb 12;12:e16861. doi: 10.7717/peerj.16861. eCollection 2024.
 
 PMID- 38350502
 OWN - NLM
-STAT- Publisher
-LR  - 20240221
+STAT- MEDLINE
+DCOM- 20240315
+LR  - 20240315
 IS  - 1872-7573 (Electronic)
 IS  - 0378-8741 (Linking)
 VI  - 326
-DP  - 2024 Feb 11
+DP  - 2024 May 23
 TI  - Opuntia monacantha: Validation of the anti-inflammatory and anti-arthritic 
       activity of its polyphenolic rich extract in silico and in vivo via assessment of 
       pro- and anti-inflammatory cytokines.
@@ -966,12 +1549,12 @@ AB  - ETHNOPHARMACOLOGICAL RELEVANCE: Opuntia monacantha belongs to the cactus f
 CI  - Copyright (c) 2024 Elsevier B.V. All rights reserved.
 FAU - Abid, Farah
 AU  - Abid F
-AD  - Faculty of Pharmacy, Government College University, Faisalabad, Pakistan. 
-      Electronic address: farah.abid@imbb.uol.edu.pk.
+AD  - Department of Pharmacology, Faculty of Pharmacy, University of South Asia, 
+      Lahore, Pakistan. Electronic address: fariaayan2010@gmail.com.
 FAU - Saleem, Mohammad
 AU  - Saleem M
-AD  - Faculty of Pharmacy, Government College University, Faisalabad, Pakistan. 
-      Electronic address: muhammad.saleem@imbb.uol.edu.pk.
+AD  - Department of Pharmacology, Faculty of Pharmacy, University of the Punjab, 
+      Lahore, Pakistan. Electronic address: saleem2978@hotmail.com.
 FAU - Jamshaid, Talha
 AU  - Jamshaid T
 AD  - Faculty of Pharmacy, The Islamia University of Bahawalpur, Bahawalpur, Pakistan. 
@@ -1005,7 +1588,29 @@ PL  - Ireland
 TA  - J Ethnopharmacol
 JT  - Journal of ethnopharmacology
 JID - 7903310
+RN  - 0 (Cytokines)
+RN  - 0 (Plant Extracts)
+RN  - EC 3.5.1.2 (Glutaminase)
+RN  - 13T4O6VMAM (Piroxicam)
+RN  - 0 (Anti-Inflammatory Agents)
+RN  - 3K9958V90M (Ethanol)
+RN  - 0 (Flavonoids)
 SB  - IM
+MH  - Rats
+MH  - Animals
+MH  - Cytokines/metabolism
+MH  - Plant Extracts/pharmacology/therapeutic use/analysis
+MH  - *Opuntia
+MH  - Glutaminase
+MH  - Piroxicam/therapeutic use
+MH  - Molecular Docking Simulation
+MH  - Rats, Sprague-Dawley
+MH  - *Arthritis, Experimental/chemically induced/drug therapy
+MH  - Anti-Inflammatory Agents/pharmacology/therapeutic use
+MH  - Ethanol/chemistry
+MH  - Inflammation/drug therapy
+MH  - Edema/chemically induced/drug therapy/metabolism
+MH  - Flavonoids/therapeutic use
 OTO - NOTNLM
 OT  - Inflammation
 OT  - Molecular docking
@@ -1017,18 +1622,19 @@ COIS- Declaration of competing interest The authors declare that they have no kn
       competing financial interests or personal relationships that could have appeared 
       to influence the work reported in this paper.
 EDAT- 2024/02/14 00:44
-MHDA- 2024/02/14 00:44
+MHDA- 2024/03/15 06:43
 CRDT- 2024/02/13 19:10
 PHST- 2023/11/16 00:00 [received]
 PHST- 2024/01/28 00:00 [revised]
 PHST- 2024/02/05 00:00 [accepted]
+PHST- 2024/03/15 06:43 [medline]
 PHST- 2024/02/14 00:44 [pubmed]
-PHST- 2024/02/14 00:44 [medline]
 PHST- 2024/02/13 19:10 [entrez]
 AID - S0378-8741(24)00183-1 [pii]
 AID - 10.1016/j.jep.2024.117884 [doi]
-PST - aheadofprint
-SO  - J Ethnopharmacol. 2024 Feb 11;326:117884. doi: 10.1016/j.jep.2024.117884.
+PST - ppublish
+SO  - J Ethnopharmacol. 2024 May 23;326:117884. doi: 10.1016/j.jep.2024.117884. Epub 
+      2024 Feb 11.
 
 PMID- 38342553
 OWN - NLM
@@ -1351,12 +1957,14 @@ COIS- The authors declare that the research was conducted in the absence of any
       conflict of interest.
 EDAT- 2024/02/09 06:43
 MHDA- 2024/02/09 06:44
+PMCR- 2024/01/01
 CRDT- 2024/02/09 03:43
 PHST- 2023/10/18 00:00 [received]
 PHST- 2024/01/10 00:00 [accepted]
 PHST- 2024/02/09 06:44 [medline]
 PHST- 2024/02/09 06:43 [pubmed]
 PHST- 2024/02/09 03:43 [entrez]
+PHST- 2024/01/01 00:00 [pmc-release]
 AID - 10.3389/fpls.2024.1323790 [doi]
 PST - epublish
 SO  - Front Plant Sci. 2024 Jan 25;15:1323790. doi: 10.3389/fpls.2024.1323790. 
@@ -1366,7 +1974,7 @@ PMID- 38308673
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240205
-LR  - 20240208
+LR  - 20240312
 IS  - 1573-2959 (Electronic)
 IS  - 0167-6369 (Linking)
 VI  - 196
@@ -1561,12 +2169,14 @@ COIS- The authors declare that this study was conducted without any commercial
       relationships that could lead to any potential conflict of interest.
 EDAT- 2024/01/31 12:44
 MHDA- 2024/02/01 06:42
+PMCR- 2024/01/31
 CRDT- 2024/01/31 11:07
 PHST- 2023/06/22 00:00 [received]
 PHST- 2023/12/27 00:00 [accepted]
 PHST- 2024/02/01 06:42 [medline]
 PHST- 2024/01/31 12:44 [pubmed]
 PHST- 2024/01/31 11:07 [entrez]
+PHST- 2024/01/31 00:00 [pmc-release]
 AID - 10.1007/s00425-023-04326-6 [pii]
 AID - 4326 [pii]
 AID - 10.1007/s00425-023-04326-6 [doi]
@@ -1864,6 +2474,7 @@ OT  - semi-arid
 COIS- The authors declare no conflicts of interest.
 EDAT- 2024/01/23 06:44
 MHDA- 2024/01/23 06:45
+PMCR- 2024/01/11
 CRDT- 2024/01/23 01:16
 PHST- 2023/11/08 00:00 [received]
 PHST- 2023/12/25 00:00 [revised]
@@ -1871,6 +2482,7 @@ PHST- 2024/01/02 00:00 [accepted]
 PHST- 2024/01/23 06:45 [medline]
 PHST- 2024/01/23 06:44 [pubmed]
 PHST- 2024/01/23 01:16 [entrez]
+PHST- 2024/01/11 00:00 [pmc-release]
 AID - plants13020195 [pii]
 AID - plants-13-00195 [pii]
 AID - 10.3390/plants13020195 [doi]
@@ -1963,12 +2575,14 @@ PMC - PMC10803760
 COIS- The authors declare no competing interests.
 EDAT- 2024/01/23 00:42
 MHDA- 2024/01/24 06:43
+PMCR- 2024/01/22
 CRDT- 2024/01/22 23:45
 PHST- 2023/09/08 00:00 [received]
 PHST- 2024/01/13 00:00 [accepted]
 PHST- 2024/01/24 06:43 [medline]
 PHST- 2024/01/23 00:42 [pubmed]
 PHST- 2024/01/22 23:45 [entrez]
+PHST- 2024/01/22 00:00 [pmc-release]
 AID - 10.1038/s41598-024-52105-4 [pii]
 AID - 52105 [pii]
 AID - 10.1038/s41598-024-52105-4 [doi]
@@ -1977,11 +2591,14 @@ SO  - Sci Rep. 2024 Jan 22;14(1):1906. doi: 10.1038/s41598-024-52105-4.
 
 PMID- 38252073
 OWN - NLM
-STAT- Publisher
-LR  - 20240219
+STAT- MEDLINE
+DCOM- 20240318
+LR  - 20240318
 IS  - 1612-1880 (Electronic)
 IS  - 1612-1872 (Linking)
-DP  - 2024 Jan 22
+VI  - 21
+IP  - 3
+DP  - 2024 Mar
 TI  - Analyzing the Bioactive Properties and Volatile Profiles Characteristics of 
       Opuntia dillenii (Ker Gawl.) Haw: Exploring its Potential for Pharmacological 
       Applications.
@@ -2066,12 +2683,24 @@ AD  - Laboratory of Chemistry of Natural Molecules, University of Liege, Gemblou
       Agro-Bio Tech., 2, Passage des Deportes, B-5030, Gembloux, Belgium.
 LA  - eng
 PT  - Journal Article
-DEP - 20240122
+DEP - 20240219
 PL  - Switzerland
 TA  - Chem Biodivers
 JT  - Chemistry & biodiversity
 JID - 101197449
+RN  - 0 (Antioxidants)
+RN  - 0 (Plant Extracts)
+RN  - 0 (Anti-Inflammatory Agents)
+RN  - 0 (Phenols)
+RN  - 0 (Oils)
 SB  - IM
+MH  - *Antioxidants/pharmacology/chemistry
+MH  - *Opuntia/chemistry
+MH  - Molecular Docking Simulation
+MH  - Plant Extracts/chemistry
+MH  - Anti-Inflammatory Agents/pharmacology
+MH  - Phenols/pharmacology
+MH  - Oils
 OTO - NOTNLM
 OT  - Anti-inflammatory activity
 OT  - Opuntia dillenii
@@ -2080,16 +2709,17 @@ OT  - oil
 OT  - phenolic compounds
 OT  - volatile compounds
 EDAT- 2024/01/22 12:43
-MHDA- 2024/01/22 12:43
+MHDA- 2024/03/18 06:42
 CRDT- 2024/01/22 10:33
 PHST- 2023/11/27 00:00 [received]
 PHST- 2024/01/22 00:00 [accepted]
+PHST- 2024/03/18 06:42 [medline]
 PHST- 2024/01/22 12:43 [pubmed]
-PHST- 2024/01/22 12:43 [medline]
 PHST- 2024/01/22 10:33 [entrez]
 AID - 10.1002/cbdv.202301890 [doi]
-PST - aheadofprint
-SO  - Chem Biodivers. 2024 Jan 22:e202301890. doi: 10.1002/cbdv.202301890.
+PST - ppublish
+SO  - Chem Biodivers. 2024 Mar;21(3):e202301890. doi: 10.1002/cbdv.202301890. Epub 2024 
+      Feb 19.
 
 PMID- 38231671
 OWN - NLM
@@ -2172,6 +2802,7 @@ COIS- The authors declare that they have no known competing financial interests 
       this paper.
 EDAT- 2024/01/17 18:42
 MHDA- 2024/01/17 18:43
+PMCR- 2023/11/22
 CRDT- 2024/01/17 12:05
 PHST- 2023/09/12 00:00 [received]
 PHST- 2023/11/03 00:00 [revised]
@@ -2179,6 +2810,7 @@ PHST- 2023/11/16 00:00 [accepted]
 PHST- 2024/01/17 18:43 [medline]
 PHST- 2024/01/17 18:42 [pubmed]
 PHST- 2024/01/17 12:05 [entrez]
+PHST- 2023/11/22 00:00 [pmc-release]
 AID - foods12234213 [pii]
 AID - foods-12-04213 [pii]
 AID - 10.3390/foods12234213 [doi]
@@ -2256,6 +2888,7 @@ OT  - Phytochemical
 COIS- The authors confirm that this article content has no conflicts of interest.
 EDAT- 2024/01/15 06:42
 MHDA- 2024/01/15 06:43
+PMCR- 2023/08/05
 CRDT- 2024/01/15 04:54
 PHST- 2022/11/24 00:00 [received]
 PHST- 2023/07/29 00:00 [revised]
@@ -2263,6 +2896,7 @@ PHST- 2023/08/01 00:00 [accepted]
 PHST- 2024/01/15 06:43 [medline]
 PHST- 2024/01/15 06:42 [pubmed]
 PHST- 2024/01/15 04:54 [entrez]
+PHST- 2023/08/05 00:00 [pmc-release]
 AID - S2225-4110(23)00084-6 [pii]
 AID - 10.1016/j.jtcme.2023.08.001 [doi]
 PST - epublish
@@ -2391,11 +3025,13 @@ OT  - Prickly pear
 COIS- The authors declare no competing interests.
 EDAT- 2024/01/11 12:42
 MHDA- 2024/02/26 06:45
+PMCR- 2024/01/11
 CRDT- 2024/01/11 11:11
 PHST- 2023/12/24 00:00 [accepted]
 PHST- 2024/02/26 06:45 [medline]
 PHST- 2024/01/11 12:42 [pubmed]
 PHST- 2024/01/11 11:11 [entrez]
+PHST- 2024/01/11 00:00 [pmc-release]
 AID - 10.1007/s11130-023-01137-8 [pii]
 AID - 1137 [pii]
 AID - 10.1007/s11130-023-01137-8 [doi]
@@ -2484,6 +3120,7 @@ OT  - silviculture
 COIS- The authors declare no conflicts of interest.
 EDAT- 2024/01/11 07:43
 MHDA- 2024/01/11 07:44
+PMCR- 2023/12/31
 CRDT- 2024/01/11 01:11
 PHST- 2023/11/10 00:00 [received]
 PHST- 2023/12/26 00:00 [revised]
@@ -2491,6 +3128,7 @@ PHST- 2023/12/27 00:00 [accepted]
 PHST- 2024/01/11 07:44 [medline]
 PHST- 2024/01/11 07:43 [pubmed]
 PHST- 2024/01/11 01:11 [entrez]
+PHST- 2023/12/31 00:00 [pmc-release]
 AID - plants13010121 [pii]
 AID - plants-13-00121 [pii]
 AID - 10.3390/plants13010121 [doi]
@@ -2580,6 +3218,7 @@ OT  - gums
 COIS- The authors declare no conflict of interest.
 EDAT- 2024/01/11 07:42
 MHDA- 2024/01/11 07:43
+PMCR- 2023/12/25
 CRDT- 2024/01/11 01:03
 PHST- 2023/11/11 00:00 [received]
 PHST- 2023/12/15 00:00 [revised]
@@ -2587,6 +3226,7 @@ PHST- 2023/12/19 00:00 [accepted]
 PHST- 2024/01/11 07:43 [medline]
 PHST- 2024/01/11 07:42 [pubmed]
 PHST- 2024/01/11 01:03 [entrez]
+PHST- 2023/12/25 00:00 [pmc-release]
 AID - foods13010078 [pii]
 AID - foods-13-00078 [pii]
 AID - 10.3390/foods13010078 [doi]
@@ -2930,6 +3570,7 @@ OT  - therapeutic membranes
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/12/23 12:43
 MHDA- 2023/12/23 12:44
+PMCR- 2023/12/15
 CRDT- 2023/12/23 01:25
 PHST- 2023/11/14 00:00 [received]
 PHST- 2023/12/11 00:00 [revised]
@@ -2937,6 +3578,7 @@ PHST- 2023/12/13 00:00 [accepted]
 PHST- 2023/12/23 12:44 [medline]
 PHST- 2023/12/23 12:43 [pubmed]
 PHST- 2023/12/23 01:25 [entrez]
+PHST- 2023/12/15 00:00 [pmc-release]
 AID - polym15244720 [pii]
 AID - polymers-15-04720 [pii]
 AID - 10.3390/polym15244720 [doi]
@@ -3019,6 +3661,7 @@ OT  - polymer concentration
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/12/23 12:44
 MHDA- 2023/12/23 12:45
+PMCR- 2023/12/07
 CRDT- 2023/12/23 01:25
 PHST- 2023/08/04 00:00 [received]
 PHST- 2023/11/28 00:00 [revised]
@@ -3026,6 +3669,7 @@ PHST- 2023/12/05 00:00 [accepted]
 PHST- 2023/12/23 12:45 [medline]
 PHST- 2023/12/23 12:44 [pubmed]
 PHST- 2023/12/23 01:25 [entrez]
+PHST- 2023/12/07 00:00 [pmc-release]
 AID - polym15244640 [pii]
 AID - polymers-15-04640 [pii]
 AID - 10.3390/polym15244640 [doi]
@@ -3166,6 +3810,7 @@ COIS- Authors A.M. and I.M. were employed by Laboratoarele Medica. The remaining
       decision to publish the results.
 EDAT- 2023/12/23 12:44
 MHDA- 2023/12/23 12:45
+PMCR- 2023/11/30
 CRDT- 2023/12/23 01:24
 PHST- 2023/10/25 00:00 [received]
 PHST- 2023/11/23 00:00 [revised]
@@ -3173,6 +3818,7 @@ PHST- 2023/11/24 00:00 [accepted]
 PHST- 2023/12/23 12:45 [medline]
 PHST- 2023/12/23 12:44 [pubmed]
 PHST- 2023/12/23 01:24 [entrez]
+PHST- 2023/11/30 00:00 [pmc-release]
 AID - ph16121671 [pii]
 AID - pharmaceuticals-16-01671 [pii]
 AID - 10.3390/ph16121671 [doi]
@@ -3276,6 +3922,7 @@ OT  - microwave
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/12/23 12:44
 MHDA- 2023/12/23 12:45
+PMCR- 2023/12/07
 CRDT- 2023/12/23 01:08
 PHST- 2023/11/03 00:00 [received]
 PHST- 2023/12/01 00:00 [revised]
@@ -3283,6 +3930,7 @@ PHST- 2023/12/04 00:00 [accepted]
 PHST- 2023/12/23 12:45 [medline]
 PHST- 2023/12/23 12:44 [pubmed]
 PHST- 2023/12/23 01:08 [entrez]
+PHST- 2023/12/07 00:00 [pmc-release]
 AID - foods12244403 [pii]
 AID - foods-12-04403 [pii]
 AID - 10.3390/foods12244403 [doi]
@@ -3577,12 +4225,14 @@ PMC - PMC10703873
 COIS- The authors declare no competing interests.
 EDAT- 2023/12/08 00:42
 MHDA- 2023/12/17 09:44
+PMCR- 2023/12/08
 CRDT- 2023/12/07 23:31
 PHST- 2023/05/28 00:00 [received]
 PHST- 2023/12/02 00:00 [accepted]
 PHST- 2023/12/17 09:44 [medline]
 PHST- 2023/12/08 00:42 [pubmed]
 PHST- 2023/12/07 23:31 [entrez]
+PHST- 2023/12/08 00:00 [pmc-release]
 AID - 10.1038/s41598-023-48976-8 [pii]
 AID - 48976 [pii]
 AID - 10.1038/s41598-023-48976-8 [doi]
@@ -4141,6 +4791,7 @@ COIS- The authors declare that they have no known competing financial interests 
       this paper.
 EDAT- 2023/11/29 18:43
 MHDA- 2023/11/29 18:44
+PMCR- 2023/11/07
 CRDT- 2023/11/29 17:07
 PHST- 2023/06/18 00:00 [received]
 PHST- 2023/10/31 00:00 [revised]
@@ -4148,6 +4799,7 @@ PHST- 2023/10/31 00:00 [accepted]
 PHST- 2023/11/29 18:44 [medline]
 PHST- 2023/11/29 18:43 [pubmed]
 PHST- 2023/11/29 17:07 [entrez]
+PHST- 2023/11/07 00:00 [pmc-release]
 AID - S2405-8440(23)09148-X [pii]
 AID - e21940 [pii]
 AID - 10.1016/j.heliyon.2023.e21940 [doi]
@@ -4226,12 +4878,14 @@ PMC - PMC10673848
 COIS- The authors declare no competing interests.
 EDAT- 2023/11/25 07:42
 MHDA- 2023/11/27 12:43
+PMCR- 2023/11/24
 CRDT- 2023/11/24 23:40
 PHST- 2023/06/12 00:00 [received]
 PHST- 2023/11/22 00:00 [accepted]
 PHST- 2023/11/27 12:43 [medline]
 PHST- 2023/11/25 07:42 [pubmed]
 PHST- 2023/11/24 23:40 [entrez]
+PHST- 2023/11/24 00:00 [pmc-release]
 AID - 10.1038/s41598-023-48152-y [pii]
 AID - 48152 [pii]
 AID - 10.1038/s41598-023-48152-y [doi]
@@ -4597,10 +5251,12 @@ COIS- CONFLICTS OF INTEREST No potential conflict of interest relevant to this a
       was reported.
 EDAT- 2023/11/16 00:42
 MHDA- 2023/11/17 15:30
+PMCR- 2023/11/15
 CRDT- 2023/11/15 19:43
 PHST- 2023/11/17 15:30 [medline]
 PHST- 2023/11/16 00:42 [pubmed]
 PHST- 2023/11/15 19:43 [entrez]
+PHST- 2023/11/15 00:00 [pmc-release]
 AID - gnl230446 [pii]
 AID - gnl-17-6-954 [pii]
 AID - 10.5009/gnl230446 [doi]
@@ -4683,6 +5339,7 @@ OT  - pectin
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/11/14 06:43
 MHDA- 2023/11/14 06:44
+PMCR- 2023/11/01
 CRDT- 2023/11/14 02:17
 PHST- 2023/08/04 00:00 [received]
 PHST- 2023/10/17 00:00 [revised]
@@ -4690,6 +5347,7 @@ PHST- 2023/10/21 00:00 [accepted]
 PHST- 2023/11/14 06:44 [medline]
 PHST- 2023/11/14 06:43 [pubmed]
 PHST- 2023/11/14 02:17 [entrez]
+PHST- 2023/11/01 00:00 [pmc-release]
 AID - polym15214295 [pii]
 AID - polymers-15-04295 [pii]
 AID - 10.3390/polym15214295 [doi]
@@ -5119,6 +5777,7 @@ OT  - wild cochineal
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/10/27 12:42
 MHDA- 2023/10/27 12:43
+PMCR- 2023/10/13
 CRDT- 2023/10/27 07:05
 PHST- 2023/09/15 00:00 [received]
 PHST- 2023/10/11 00:00 [revised]
@@ -5126,6 +5785,7 @@ PHST- 2023/10/11 00:00 [accepted]
 PHST- 2023/10/27 12:43 [medline]
 PHST- 2023/10/27 12:42 [pubmed]
 PHST- 2023/10/27 07:05 [entrez]
+PHST- 2023/10/13 00:00 [pmc-release]
 AID - insects14100811 [pii]
 AID - insects-14-00811 [pii]
 AID - 10.3390/insects14100811 [doi]
@@ -5191,6 +5851,7 @@ OT  - purification
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/10/27 12:44
 MHDA- 2023/10/27 12:45
+PMCR- 2023/10/16
 CRDT- 2023/10/27 06:52
 PHST- 2023/09/12 00:00 [received]
 PHST- 2023/10/10 00:00 [revised]
@@ -5198,6 +5859,7 @@ PHST- 2023/10/12 00:00 [accepted]
 PHST- 2023/10/27 12:45 [medline]
 PHST- 2023/10/27 12:44 [pubmed]
 PHST- 2023/10/27 06:52 [entrez]
+PHST- 2023/10/16 00:00 [pmc-release]
 AID - biology12101339 [pii]
 AID - biology-12-01339 [pii]
 AID - 10.3390/biology12101339 [doi]
@@ -5273,6 +5935,7 @@ PMC - PMC10593547
 COIS- The authors declare that there are no conflicts of interest.
 EDAT- 2023/10/25 06:42
 MHDA- 2023/10/26 06:42
+PMCR- 2023/10/16
 CRDT- 2023/10/25 03:52
 PHST- 2023/06/18 00:00 [received]
 PHST- 2023/09/04 00:00 [revised]
@@ -5280,6 +5943,7 @@ PHST- 2023/10/05 00:00 [accepted]
 PHST- 2023/10/26 06:42 [medline]
 PHST- 2023/10/25 06:42 [pubmed]
 PHST- 2023/10/25 03:52 [entrez]
+PHST- 2023/10/16 00:00 [pmc-release]
 AID - 10.1155/2023/6670648 [doi]
 PST - epublish
 SO  - ScientificWorldJournal. 2023 Oct 16;2023:6670648. doi: 10.1155/2023/6670648. 
@@ -5356,12 +6020,14 @@ OT  - Wild edible plants
 COIS- There were no competing interests.
 EDAT- 2023/10/24 00:41
 MHDA- 2023/10/24 00:42
+PMCR- 2023/10/24
 CRDT- 2023/10/23 23:52
 PHST- 2023/07/28 00:00 [received]
 PHST- 2023/10/10 00:00 [accepted]
 PHST- 2023/10/24 00:42 [medline]
 PHST- 2023/10/24 00:41 [pubmed]
 PHST- 2023/10/23 23:52 [entrez]
+PHST- 2023/10/24 00:00 [pmc-release]
 AID - 10.1186/s41182-023-00550-8 [pii]
 AID - 550 [pii]
 AID - 10.1186/s41182-023-00550-8 [doi]
@@ -5448,12 +6114,14 @@ COIS- The authors declare that the research was conducted in the absence of any
       review process and the final decision.
 EDAT- 2023/10/23 06:46
 MHDA- 2023/10/23 06:47
+PMCR- 2023/10/06
 CRDT- 2023/10/23 04:58
 PHST- 2023/08/07 00:00 [received]
 PHST- 2023/09/12 00:00 [accepted]
 PHST- 2023/10/23 06:47 [medline]
 PHST- 2023/10/23 06:46 [pubmed]
 PHST- 2023/10/23 04:58 [entrez]
+PHST- 2023/10/06 00:00 [pmc-release]
 AID - 10.3389/fmicb.2023.1273940 [doi]
 PST - epublish
 SO  - Front Microbiol. 2023 Oct 6;14:1273940. doi: 10.3389/fmicb.2023.1273940. 
@@ -5677,12 +6345,14 @@ COIS- The authors declare that the research was conducted in the absence of any
       conflict of interest.
 EDAT- 2023/10/20 06:42
 MHDA- 2023/10/20 06:43
+PMCR- 2023/01/01
 CRDT- 2023/10/20 04:31
 PHST- 2023/06/07 00:00 [received]
 PHST- 2023/09/13 00:00 [accepted]
 PHST- 2023/10/20 06:43 [medline]
 PHST- 2023/10/20 06:42 [pubmed]
 PHST- 2023/10/20 04:31 [entrez]
+PHST- 2023/01/01 00:00 [pmc-release]
 AID - 10.3389/fpls.2023.1236123 [doi]
 PST - epublish
 SO  - Front Plant Sci. 2023 Oct 4;14:1236123. doi: 10.3389/fpls.2023.1236123. 
@@ -5779,12 +6449,14 @@ COIS- No conflicts of interest exist, according to the authors, with the publish
       this paper.
 EDAT- 2023/10/18 18:43
 MHDA- 2023/10/23 01:18
+PMCR- 2023/10/18
 CRDT- 2023/10/18 13:44
 PHST- 2023/02/27 00:00 [received]
 PHST- 2023/07/25 00:00 [accepted]
 PHST- 2023/10/23 01:18 [medline]
 PHST- 2023/10/18 18:43 [pubmed]
 PHST- 2023/10/18 13:44 [entrez]
+PHST- 2023/10/18 00:00 [pmc-release]
 AID - PONE-D-23-05787 [pii]
 AID - 10.1371/journal.pone.0289709 [doi]
 PST - epublish
@@ -5859,6 +6531,7 @@ COIS- The authors declare that they have no known competing financial interests 
       this paper.
 EDAT- 2023/10/09 06:41
 MHDA- 2023/10/09 06:42
+PMCR- 2023/09/12
 CRDT- 2023/10/09 05:58
 PHST- 2023/06/16 00:00 [received]
 PHST- 2023/09/07 00:00 [revised]
@@ -5866,6 +6539,7 @@ PHST- 2023/09/07 00:00 [accepted]
 PHST- 2023/10/09 06:42 [medline]
 PHST- 2023/10/09 06:41 [pubmed]
 PHST- 2023/10/09 05:58 [entrez]
+PHST- 2023/09/12 00:00 [pmc-release]
 AID - S2405-8440(23)07204-3 [pii]
 AID - e19996 [pii]
 AID - 10.1016/j.heliyon.2023.e19996 [doi]
@@ -6184,6 +6858,7 @@ COIS- The authors declare no conflict of interest. The funders had no role in th
       the writing of the manuscript; or in the decision to publish the results.
 EDAT- 2023/09/28 06:42
 MHDA- 2023/09/28 06:43
+PMCR- 2023/09/17
 CRDT- 2023/09/28 01:39
 PHST- 2023/08/18 00:00 [received]
 PHST- 2023/09/09 00:00 [revised]
@@ -6191,6 +6866,7 @@ PHST- 2023/09/14 00:00 [accepted]
 PHST- 2023/09/28 06:43 [medline]
 PHST- 2023/09/28 06:42 [pubmed]
 PHST- 2023/09/28 01:39 [entrez]
+PHST- 2023/09/17 00:00 [pmc-release]
 AID - plants12183287 [pii]
 AID - plants-12-03287 [pii]
 AID - 10.3390/plants12183287 [doi]
@@ -6279,6 +6955,7 @@ COIS- The authors declare no conflict of interest. The funders had no role in th
       the writing of the manuscript.
 EDAT- 2023/09/28 06:42
 MHDA- 2023/09/28 06:43
+PMCR- 2023/09/19
 CRDT- 2023/09/28 01:11
 PHST- 2023/08/14 00:00 [received]
 PHST- 2023/09/14 00:00 [revised]
@@ -6286,6 +6963,7 @@ PHST- 2023/09/14 00:00 [accepted]
 PHST- 2023/09/28 06:43 [medline]
 PHST- 2023/09/28 06:42 [pubmed]
 PHST- 2023/09/28 01:11 [entrez]
+PHST- 2023/09/19 00:00 [pmc-release]
 AID - foods12183479 [pii]
 AID - foods-12-03479 [pii]
 AID - 10.3390/foods12183479 [doi]
@@ -6392,6 +7070,7 @@ OT  - shrimp
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/09/27 12:41
 MHDA- 2023/09/27 12:42
+PMCR- 2023/09/04
 CRDT- 2023/09/27 08:55
 PHST- 2023/07/29 00:00 [received]
 PHST- 2023/08/26 00:00 [revised]
@@ -6399,6 +7078,7 @@ PHST- 2023/08/30 00:00 [accepted]
 PHST- 2023/09/27 12:42 [medline]
 PHST- 2023/09/27 12:41 [pubmed]
 PHST- 2023/09/27 08:55 [entrez]
+PHST- 2023/09/04 00:00 [pmc-release]
 AID - gels9090716 [pii]
 AID - gels-09-00716 [pii]
 AID - 10.3390/gels9090716 [doi]
@@ -6483,12 +7163,14 @@ PMC - PMC10515183
 COIS- The authors declare no competing financial interest.
 EDAT- 2023/09/25 06:42
 MHDA- 2023/09/25 06:43
+PMCR- 2023/09/07
 CRDT- 2023/09/25 04:50
 PHST- 2023/04/21 00:00 [received]
 PHST- 2023/08/24 00:00 [accepted]
 PHST- 2023/09/25 06:43 [medline]
 PHST- 2023/09/25 06:42 [pubmed]
 PHST- 2023/09/25 04:50 [entrez]
+PHST- 2023/09/07 00:00 [pmc-release]
 AID - 10.1021/acsomega.3c02735 [doi]
 PST - epublish
 SO  - ACS Omega. 2023 Sep 7;8(37):33342-33348. doi: 10.1021/acsomega.3c02735. 
@@ -6760,6 +7442,7 @@ OT  - prickly-pear
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/08/26 10:44
 MHDA- 2023/08/26 10:45
+PMCR- 2023/08/09
 CRDT- 2023/08/26 01:29
 PHST- 2023/04/10 00:00 [received]
 PHST- 2023/07/17 00:00 [revised]
@@ -6767,6 +7450,7 @@ PHST- 2023/07/20 00:00 [accepted]
 PHST- 2023/08/26 10:45 [medline]
 PHST- 2023/08/26 10:44 [pubmed]
 PHST- 2023/08/26 01:29 [entrez]
+PHST- 2023/08/09 00:00 [pmc-release]
 AID - plants12162907 [pii]
 AID - plants-12-02907 [pii]
 AID - 10.3390/plants12162907 [doi]
@@ -6858,6 +7542,7 @@ OT  - electrocatalyst supports
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/08/26 10:43
 MHDA- 2023/08/26 10:44
+PMCR- 2023/08/10
 CRDT- 2023/08/26 01:21
 PHST- 2023/06/16 00:00 [received]
 PHST- 2023/07/22 00:00 [revised]
@@ -6865,6 +7550,7 @@ PHST- 2023/07/27 00:00 [accepted]
 PHST- 2023/08/26 10:44 [medline]
 PHST- 2023/08/26 10:43 [pubmed]
 PHST- 2023/08/26 01:21 [entrez]
+PHST- 2023/08/10 00:00 [pmc-release]
 AID - ma16165571 [pii]
 AID - materials-16-05571 [pii]
 AID - 10.3390/ma16165571 [doi]
@@ -6979,6 +7665,7 @@ OT  - optimization
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/08/26 10:47
 MHDA- 2023/08/26 10:48
+PMCR- 2023/08/02
 CRDT- 2023/08/26 01:01
 PHST- 2023/06/23 00:00 [received]
 PHST- 2023/07/25 00:00 [revised]
@@ -6986,6 +7673,7 @@ PHST- 2023/07/28 00:00 [accepted]
 PHST- 2023/08/26 10:48 [medline]
 PHST- 2023/08/26 10:47 [pubmed]
 PHST- 2023/08/26 01:01 [entrez]
+PHST- 2023/08/02 00:00 [pmc-release]
 AID - biomedicines11082173 [pii]
 AID - biomedicines-11-02173 [pii]
 AID - 10.3390/biomedicines11082173 [doi]
@@ -7083,12 +7771,14 @@ COIS- The authors declare that the research was conducted in the absence of any
       conflict of interest.
 EDAT- 2023/08/25 06:42
 MHDA- 2023/08/25 06:43
+PMCR- 2023/08/09
 CRDT- 2023/08/25 03:45
 PHST- 2023/05/31 00:00 [received]
 PHST- 2023/07/20 00:00 [accepted]
 PHST- 2023/08/25 06:43 [medline]
 PHST- 2023/08/25 06:42 [pubmed]
 PHST- 2023/08/25 03:45 [entrez]
+PHST- 2023/08/09 00:00 [pmc-release]
 AID - 10.3389/fmicb.2023.1232323 [doi]
 PST - epublish
 SO  - Front Microbiol. 2023 Aug 9;14:1232323. doi: 10.3389/fmicb.2023.1232323. 
@@ -7314,6 +8004,7 @@ COIS- The authors declare no conflict of interest. The funders had no role in th
       the writing of the manuscript; or in the decision to publish the results.
 EDAT- 2023/08/12 10:49
 MHDA- 2023/08/14 06:41
+PMCR- 2023/08/07
 CRDT- 2023/08/12 01:22
 PHST- 2023/07/05 00:00 [received]
 PHST- 2023/08/02 00:00 [revised]
@@ -7321,6 +8012,7 @@ PHST- 2023/08/03 00:00 [accepted]
 PHST- 2023/08/14 06:41 [medline]
 PHST- 2023/08/12 10:49 [pubmed]
 PHST- 2023/08/12 01:22 [entrez]
+PHST- 2023/08/07 00:00 [pmc-release]
 AID - nu15153495 [pii]
 AID - nutrients-15-03495 [pii]
 AID - 10.3390/nu15153495 [doi]
@@ -7419,6 +8111,7 @@ OT  - prickly pear
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/08/12 10:46
 MHDA- 2023/08/12 10:46
+PMCR- 2023/07/25
 CRDT- 2023/08/12 01:19
 PHST- 2023/05/11 00:00 [received]
 PHST- 2023/06/02 00:00 [revised]
@@ -7426,6 +8119,7 @@ PHST- 2023/06/09 00:00 [accepted]
 PHST- 2023/08/12 10:46 [medline]
 PHST- 2023/08/12 10:46 [pubmed]
 PHST- 2023/08/12 01:19 [entrez]
+PHST- 2023/07/25 00:00 [pmc-release]
 AID - plants12152758 [pii]
 AID - plants-12-02758 [pii]
 AID - 10.3390/plants12152758 [doi]
@@ -7827,6 +8521,7 @@ OT  - prickly pears
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/07/29 11:49
 MHDA- 2023/07/29 11:50
+PMCR- 2023/07/18
 CRDT- 2023/07/29 01:40
 PHST- 2023/06/15 00:00 [received]
 PHST- 2023/07/08 00:00 [revised]
@@ -7834,6 +8529,7 @@ PHST- 2023/07/10 00:00 [accepted]
 PHST- 2023/07/29 11:50 [medline]
 PHST- 2023/07/29 11:49 [pubmed]
 PHST- 2023/07/29 01:40 [entrez]
+PHST- 2023/07/18 00:00 [pmc-release]
 AID - plants12142677 [pii]
 AID - plants-12-02677 [pii]
 AID - 10.3390/plants12142677 [doi]
@@ -7922,6 +8618,7 @@ OT  - phytochemical
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/07/29 11:48
 MHDA- 2023/07/29 11:49
+PMCR- 2023/06/23
 CRDT- 2023/07/29 01:03
 PHST- 2023/05/09 00:00 [received]
 PHST- 2023/06/17 00:00 [revised]
@@ -7929,6 +8626,7 @@ PHST- 2023/06/20 00:00 [accepted]
 PHST- 2023/07/29 11:49 [medline]
 PHST- 2023/07/29 11:48 [pubmed]
 PHST- 2023/07/29 01:03 [entrez]
+PHST- 2023/06/23 00:00 [pmc-release]
 AID - antiox12071329 [pii]
 AID - antioxidants-12-01329 [pii]
 AID - 10.3390/antiox12071329 [doi]
@@ -8228,6 +8926,7 @@ OT  - functional properties
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/07/14 13:06
 MHDA- 2023/07/17 06:42
+PMCR- 2023/06/29
 CRDT- 2023/07/14 01:22
 PHST- 2023/06/13 00:00 [received]
 PHST- 2023/06/19 00:00 [revised]
@@ -8235,6 +8934,7 @@ PHST- 2023/06/26 00:00 [accepted]
 PHST- 2023/07/17 06:42 [medline]
 PHST- 2023/07/14 13:06 [pubmed]
 PHST- 2023/07/14 01:22 [entrez]
+PHST- 2023/06/29 00:00 [pmc-release]
 AID - nu15132962 [pii]
 AID - nutrients-15-02962 [pii]
 AID - 10.3390/nu15132962 [doi]
@@ -8328,6 +9028,7 @@ OT  - probiotics
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/07/14 13:06
 MHDA- 2023/07/14 13:07
+PMCR- 2023/06/27
 CRDT- 2023/07/14 01:04
 PHST- 2023/05/24 00:00 [received]
 PHST- 2023/06/09 00:00 [revised]
@@ -8335,6 +9036,7 @@ PHST- 2023/06/13 00:00 [accepted]
 PHST- 2023/07/14 13:07 [medline]
 PHST- 2023/07/14 13:06 [pubmed]
 PHST- 2023/07/14 01:04 [entrez]
+PHST- 2023/06/27 00:00 [pmc-release]
 AID - foods12132494 [pii]
 AID - foods-12-02494 [pii]
 AID - 10.3390/foods12132494 [doi]
@@ -8508,6 +9210,7 @@ PMC - PMC10319463
 COIS- The authors declare that there are no conflicts of interest.
 EDAT- 2023/07/06 06:42
 MHDA- 2023/07/06 06:43
+PMCR- 2023/06/27
 CRDT- 2023/07/06 03:56
 PHST- 2023/02/24 00:00 [received]
 PHST- 2023/05/28 00:00 [revised]
@@ -8515,6 +9218,7 @@ PHST- 2023/05/30 00:00 [accepted]
 PHST- 2023/07/06 06:43 [medline]
 PHST- 2023/07/06 06:42 [pubmed]
 PHST- 2023/07/06 03:56 [entrez]
+PHST- 2023/06/27 00:00 [pmc-release]
 AID - 10.1155/2023/7837615 [doi]
 PST - epublish
 SO  - Evid Based Complement Alternat Med. 2023 Jun 27;2023:7837615. doi: 
@@ -8613,12 +9317,14 @@ PMC - PMC10317867
 COIS- The authors declare that they have no conflict of interest.
 EDAT- 2023/07/04 01:05
 MHDA- 2023/07/05 06:42
+PMCR- 2023/07/03
 CRDT- 2023/07/03 23:31
 PHST- 2023/01/10 00:00 [received]
 PHST- 2023/06/06 00:00 [accepted]
 PHST- 2023/07/05 06:42 [medline]
 PHST- 2023/07/04 01:05 [pubmed]
 PHST- 2023/07/03 23:31 [entrez]
+PHST- 2023/07/03 00:00 [pmc-release]
 AID - 10.1007/s00284-023-03368-z [pii]
 AID - 3368 [pii]
 AID - 10.1007/s00284-023-03368-z [doi]
@@ -8723,6 +9429,7 @@ OT  - steatosis
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/06/28 06:42
 MHDA- 2023/06/28 06:43
+PMCR- 2023/05/29
 CRDT- 2023/06/28 01:10
 PHST- 2023/04/28 00:00 [received]
 PHST- 2023/05/24 00:00 [revised]
@@ -8730,6 +9437,7 @@ PHST- 2023/05/26 00:00 [accepted]
 PHST- 2023/06/28 06:43 [medline]
 PHST- 2023/06/28 06:42 [pubmed]
 PHST- 2023/06/28 01:10 [entrez]
+PHST- 2023/05/29 00:00 [pmc-release]
 AID - antiox12061174 [pii]
 AID - antioxidants-12-01174 [pii]
 AID - 10.3390/antiox12061174 [doi]
@@ -8994,6 +9702,7 @@ OT  - biosorption
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/06/10 15:14
 MHDA- 2023/06/12 06:43
+PMCR- 2023/05/31
 CRDT- 2023/06/10 01:15
 PHST- 2023/04/11 00:00 [received]
 PHST- 2023/05/18 00:00 [revised]
@@ -9001,6 +9710,7 @@ PHST- 2023/05/24 00:00 [accepted]
 PHST- 2023/06/12 06:43 [medline]
 PHST- 2023/06/10 15:14 [pubmed]
 PHST- 2023/06/10 01:15 [entrez]
+PHST- 2023/05/31 00:00 [pmc-release]
 AID - molecules28114451 [pii]
 AID - molecules-28-04451 [pii]
 AID - 10.3390/molecules28114451 [doi]
@@ -9092,6 +9802,7 @@ OT  - zinc-aminoclay (ZnAC)
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/06/10 15:14
 MHDA- 2023/06/12 06:43
+PMCR- 2023/06/02
 CRDT- 2023/06/10 01:13
 PHST- 2023/04/25 00:00 [received]
 PHST- 2023/05/30 00:00 [revised]
@@ -9099,6 +9810,7 @@ PHST- 2023/05/30 00:00 [accepted]
 PHST- 2023/06/12 06:43 [medline]
 PHST- 2023/06/10 15:14 [pubmed]
 PHST- 2023/06/10 01:13 [entrez]
+PHST- 2023/06/02 00:00 [pmc-release]
 AID - ijms24119669 [pii]
 AID - ijms-24-09669 [pii]
 AID - 10.3390/ijms24119669 [doi]
@@ -9192,6 +9904,7 @@ OT  - microscopic studies
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/06/10 15:13
 MHDA- 2023/06/10 15:14
+PMCR- 2023/06/01
 CRDT- 2023/06/10 01:06
 PHST- 2023/04/28 00:00 [received]
 PHST- 2023/05/29 00:00 [revised]
@@ -9199,6 +9912,7 @@ PHST- 2023/05/30 00:00 [accepted]
 PHST- 2023/06/10 15:14 [medline]
 PHST- 2023/06/10 15:13 [pubmed]
 PHST- 2023/06/10 01:06 [entrez]
+PHST- 2023/06/01 00:00 [pmc-release]
 AID - foods12112243 [pii]
 AID - foods-12-02243 [pii]
 AID - 10.3390/foods12112243 [doi]
@@ -9287,6 +10001,7 @@ OT  - temperature
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/06/10 15:13
 MHDA- 2023/06/10 15:14
+PMCR- 2023/05/23
 CRDT- 2023/06/10 01:06
 PHST- 2023/04/22 00:00 [received]
 PHST- 2023/05/15 00:00 [revised]
@@ -9294,6 +10009,7 @@ PHST- 2023/05/17 00:00 [accepted]
 PHST- 2023/06/10 15:14 [medline]
 PHST- 2023/06/10 15:13 [pubmed]
 PHST- 2023/06/10 01:06 [entrez]
+PHST- 2023/05/23 00:00 [pmc-release]
 AID - foods12112096 [pii]
 AID - foods-12-02096 [pii]
 AID - 10.3390/foods12112096 [doi]
@@ -9380,6 +10096,7 @@ COIS- Declaration of Competing Interest The authors declare that they have no kn
       to influence the work reported in this paper.
 EDAT- 2023/06/10 15:14
 MHDA- 2023/06/21 06:42
+PMCR- 2023/06/05
 CRDT- 2023/06/09 18:03
 PHST- 2023/05/10 00:00 [received]
 PHST- 2023/05/22 00:00 [revised]
@@ -9387,6 +10104,7 @@ PHST- 2023/05/31 00:00 [accepted]
 PHST- 2023/06/21 06:42 [medline]
 PHST- 2023/06/10 15:14 [pubmed]
 PHST- 2023/06/09 18:03 [entrez]
+PHST- 2023/06/05 00:00 [pmc-release]
 AID - S1350-4177(23)00177-3 [pii]
 AID - 106465 [pii]
 AID - 10.1016/j.ultsonch.2023.106465 [doi]
@@ -9476,6 +10194,7 @@ COIS- Declaration of Competing Interest The authors declare that they have no kn
       to influence the work reported in this paper.
 EDAT- 2023/06/04 01:08
 MHDA- 2023/06/21 06:42
+PMCR- 2023/05/27
 CRDT- 2023/06/03 18:05
 PHST- 2023/04/19 00:00 [received]
 PHST- 2023/05/14 00:00 [revised]
@@ -9483,6 +10202,7 @@ PHST- 2023/05/24 00:00 [accepted]
 PHST- 2023/06/21 06:42 [medline]
 PHST- 2023/06/04 01:08 [pubmed]
 PHST- 2023/06/03 18:05 [entrez]
+PHST- 2023/05/27 00:00 [pmc-release]
 AID - S1350-4177(23)00171-2 [pii]
 AID - 106459 [pii]
 AID - 10.1016/j.ultsonch.2023.106459 [doi]
@@ -9685,6 +10405,7 @@ OT  - 'California Wonder'
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/05/27 09:42
 MHDA- 2023/05/27 09:43
+PMCR- 2023/05/21
 CRDT- 2023/05/27 01:08
 PHST- 2023/04/05 00:00 [received]
 PHST- 2023/05/16 00:00 [revised]
@@ -9692,6 +10413,7 @@ PHST- 2023/05/18 00:00 [accepted]
 PHST- 2023/05/27 09:43 [medline]
 PHST- 2023/05/27 09:42 [pubmed]
 PHST- 2023/05/27 01:08 [entrez]
+PHST- 2023/05/21 00:00 [pmc-release]
 AID - foods12102071 [pii]
 AID - foods-12-02071 [pii]
 AID - 10.3390/foods12102071 [doi]
@@ -9804,6 +10526,7 @@ COIS- Author Cristian Bortolini was employed by the company Ferrero s.p.a. The a
       interest.
 EDAT- 2023/05/27 09:42
 MHDA- 2023/05/27 09:43
+PMCR- 2023/05/17
 CRDT- 2023/05/27 01:08
 PHST- 2023/04/06 00:00 [received]
 PHST- 2023/05/08 00:00 [revised]
@@ -9811,6 +10534,7 @@ PHST- 2023/05/10 00:00 [accepted]
 PHST- 2023/05/27 09:43 [medline]
 PHST- 2023/05/27 09:42 [pubmed]
 PHST- 2023/05/27 01:08 [entrez]
+PHST- 2023/05/17 00:00 [pmc-release]
 AID - foods12102024 [pii]
 AID - foods-12-02024 [pii]
 AID - 10.3390/foods12102024 [doi]
@@ -9914,6 +10638,7 @@ OT  - tissue engineering
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/05/26 13:09
 MHDA- 2023/05/26 13:10
+PMCR- 2023/05/01
 CRDT- 2023/05/26 10:04
 PHST- 2023/03/31 00:00 [received]
 PHST- 2023/04/23 00:00 [revised]
@@ -9921,6 +10646,7 @@ PHST- 2023/04/27 00:00 [accepted]
 PHST- 2023/05/26 13:10 [medline]
 PHST- 2023/05/26 13:09 [pubmed]
 PHST- 2023/05/26 10:04 [entrez]
+PHST- 2023/05/01 00:00 [pmc-release]
 AID - jfb14050252 [pii]
 AID - jfb-14-00252 [pii]
 AID - 10.3390/jfb14050252 [doi]
@@ -10004,6 +10730,7 @@ OT  - low-cost wastewater treatments
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/05/13 15:13
 MHDA- 2023/05/13 15:14
+PMCR- 2023/05/08
 CRDT- 2023/05/13 01:26
 PHST- 2023/04/03 00:00 [received]
 PHST- 2023/04/29 00:00 [revised]
@@ -10011,6 +10738,7 @@ PHST- 2023/05/02 00:00 [accepted]
 PHST- 2023/05/13 15:14 [medline]
 PHST- 2023/05/13 15:13 [pubmed]
 PHST- 2023/05/13 01:26 [entrez]
+PHST- 2023/05/08 00:00 [pmc-release]
 AID - molecules28093953 [pii]
 AID - molecules-28-03953 [pii]
 AID - 10.3390/molecules28093953 [doi]
@@ -10088,6 +10816,7 @@ COIS- The authors declare no conflict of interest. The funders had no role in th
       the writing of the manuscript; or in the decision to publish the results.
 EDAT- 2023/05/13 15:13
 MHDA- 2023/05/13 15:14
+PMCR- 2023/04/27
 CRDT- 2023/05/13 01:20
 PHST- 2023/03/22 00:00 [received]
 PHST- 2023/04/13 00:00 [revised]
@@ -10095,6 +10824,7 @@ PHST- 2023/04/20 00:00 [accepted]
 PHST- 2023/05/13 15:14 [medline]
 PHST- 2023/05/13 15:13 [pubmed]
 PHST- 2023/05/13 01:20 [entrez]
+PHST- 2023/04/27 00:00 [pmc-release]
 AID - foods12091811 [pii]
 AID - foods-12-01811 [pii]
 AID - 10.3390/foods12091811 [doi]
@@ -10173,12 +10903,14 @@ OT  - Primate mind
 OT  - Social strategies
 EDAT- 2023/05/11 00:42
 MHDA- 2023/07/06 06:42
+PMCR- 2023/05/10
 CRDT- 2023/05/10 23:27
 PHST- 2022/11/23 00:00 [received]
 PHST- 2023/02/23 00:00 [accepted]
 PHST- 2023/07/06 06:42 [medline]
 PHST- 2023/05/11 00:42 [pubmed]
 PHST- 2023/05/10 23:27 [entrez]
+PHST- 2023/05/10 00:00 [pmc-release]
 AID - 10.1007/s10329-023-01060-1 [pii]
 AID - 1060 [pii]
 AID - 10.1007/s10329-023-01060-1 [doi]
@@ -10266,6 +10998,7 @@ OT  - potential distribution
 COIS- We declare no conflict of interest.
 EDAT- 2023/05/05 06:42
 MHDA- 2023/05/05 06:43
+PMCR- 2023/05/01
 CRDT- 2023/05/05 03:56
 PHST- 2022/07/10 00:00 [received]
 PHST- 2023/04/03 00:00 [revised]
@@ -10273,6 +11006,7 @@ PHST- 2023/04/18 00:00 [accepted]
 PHST- 2023/05/05 06:43 [medline]
 PHST- 2023/05/05 06:42 [pubmed]
 PHST- 2023/05/05 03:56 [entrez]
+PHST- 2023/05/01 00:00 [pmc-release]
 AID - ECE310050 [pii]
 AID - 10.1002/ece3.10050 [doi]
 PST - epublish
@@ -10371,6 +11105,7 @@ OT  - sources
 COIS- There are no conflicts to declare.
 EDAT- 2023/04/28 06:41
 MHDA- 2023/05/01 06:42
+PMCR- 2023/04/18
 CRDT- 2023/04/28 01:44
 PHST- 2023/03/09 00:00 [received]
 PHST- 2023/04/12 00:00 [revised]
@@ -10378,6 +11113,7 @@ PHST- 2023/04/13 00:00 [accepted]
 PHST- 2023/05/01 06:42 [medline]
 PHST- 2023/04/28 06:41 [pubmed]
 PHST- 2023/04/28 01:44 [entrez]
+PHST- 2023/04/18 00:00 [pmc-release]
 AID - nu15081947 [pii]
 AID - nutrients-15-01947 [pii]
 AID - 10.3390/nu15081947 [doi]
@@ -10462,6 +11198,7 @@ OT  - tolerance index
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/04/28 06:42
 MHDA- 2023/04/28 06:43
+PMCR- 2023/03/24
 CRDT- 2023/04/28 01:30
 PHST- 2023/02/27 00:00 [received]
 PHST- 2023/03/17 00:00 [revised]
@@ -10469,6 +11206,7 @@ PHST- 2023/03/22 00:00 [accepted]
 PHST- 2023/04/28 06:43 [medline]
 PHST- 2023/04/28 06:42 [pubmed]
 PHST- 2023/04/28 01:30 [entrez]
+PHST- 2023/03/24 00:00 [pmc-release]
 AID - jof9040405 [pii]
 AID - jof-09-00405 [pii]
 AID - 10.3390/jof9040405 [doi]
@@ -10567,6 +11305,7 @@ PMC - PMC10101746
 COIS- The authors declare that they have no conflicts of interest.
 EDAT- 2023/04/18 06:00
 MHDA- 2023/04/18 06:01
+PMCR- 2023/04/06
 CRDT- 2023/04/17 03:29
 PHST- 2022/11/18 00:00 [received]
 PHST- 2023/02/27 00:00 [revised]
@@ -10574,6 +11313,7 @@ PHST- 2023/03/15 00:00 [accepted]
 PHST- 2023/04/18 06:01 [medline]
 PHST- 2023/04/17 03:29 [entrez]
 PHST- 2023/04/18 06:00 [pubmed]
+PHST- 2023/04/06 00:00 [pmc-release]
 AID - 10.1155/2023/6248890 [doi]
 PST - epublish
 SO  - Vet Med Int. 2023 Apr 6;2023:6248890. doi: 10.1155/2023/6248890. eCollection 
@@ -10778,6 +11518,7 @@ OT  - polyphenols
 COIS- The authors declare that they have no conflict of interest to disclose.
 EDAT- 2023/04/14 06:00
 MHDA- 2023/04/14 06:01
+PMCR- 2023/01/22
 CRDT- 2023/04/13 02:01
 PHST- 2022/10/20 00:00 [received]
 PHST- 2022/12/28 00:00 [revised]
@@ -10785,6 +11526,7 @@ PHST- 2022/12/31 00:00 [accepted]
 PHST- 2023/04/14 06:01 [medline]
 PHST- 2023/04/13 02:01 [entrez]
 PHST- 2023/04/14 06:00 [pubmed]
+PHST- 2023/01/22 00:00 [pmc-release]
 AID - FSN33226 [pii]
 AID - 10.1002/fsn3.3226 [doi]
 PST - epublish
@@ -10870,6 +11612,7 @@ OT  - prickly pear peel
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/04/14 06:00
 MHDA- 2023/04/14 06:01
+PMCR- 2023/04/03
 CRDT- 2023/04/13 01:28
 PHST- 2023/03/05 00:00 [received]
 PHST- 2023/03/29 00:00 [revised]
@@ -10877,6 +11620,7 @@ PHST- 2023/03/31 00:00 [accepted]
 PHST- 2023/04/14 06:01 [medline]
 PHST- 2023/04/13 01:28 [entrez]
 PHST- 2023/04/14 06:00 [pubmed]
+PHST- 2023/04/03 00:00 [pmc-release]
 AID - plants12071537 [pii]
 AID - plants-12-01537 [pii]
 AID - 10.3390/plants12071537 [doi]
@@ -10946,6 +11690,7 @@ OT  - prickly pear
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/04/14 06:00
 MHDA- 2023/04/14 06:01
+PMCR- 2023/03/30
 CRDT- 2023/04/13 01:28
 PHST- 2023/03/08 00:00 [received]
 PHST- 2023/03/27 00:00 [revised]
@@ -10953,6 +11698,7 @@ PHST- 2023/03/28 00:00 [accepted]
 PHST- 2023/04/14 06:01 [medline]
 PHST- 2023/04/13 01:28 [entrez]
 PHST- 2023/04/14 06:00 [pubmed]
+PHST- 2023/03/30 00:00 [pmc-release]
 AID - plants12071512 [pii]
 AID - plants-12-01512 [pii]
 AID - 10.3390/plants12071512 [doi]
@@ -11089,6 +11835,7 @@ OT  - prickly pear
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/04/14 06:00
 MHDA- 2023/04/14 06:01
+PMCR- 2023/03/29
 CRDT- 2023/04/13 01:17
 PHST- 2023/03/03 00:00 [received]
 PHST- 2023/03/25 00:00 [revised]
@@ -11096,6 +11843,7 @@ PHST- 2023/03/27 00:00 [accepted]
 PHST- 2023/04/14 06:01 [medline]
 PHST- 2023/04/13 01:17 [entrez]
 PHST- 2023/04/14 06:00 [pubmed]
+PHST- 2023/03/29 00:00 [pmc-release]
 AID - foods12071465 [pii]
 AID - foods-12-01465 [pii]
 AID - 10.3390/foods12071465 [doi]
@@ -11179,6 +11927,7 @@ OT  - Suitability
 COIS- The authors declare no conflict of interest.
 EDAT- 2023/04/08 06:00
 MHDA- 2023/04/08 06:01
+PMCR- 2023/03/28
 CRDT- 2023/04/07 02:35
 PHST- 2023/01/02 00:00 [received]
 PHST- 2023/02/24 00:00 [revised]
@@ -11186,6 +11935,7 @@ PHST- 2023/03/22 00:00 [accepted]
 PHST- 2023/04/08 06:01 [medline]
 PHST- 2023/04/07 02:35 [entrez]
 PHST- 2023/04/08 06:00 [pubmed]
+PHST- 2023/03/28 00:00 [pmc-release]
 AID - S2405-8440(23)02134-5 [pii]
 AID - e14927 [pii]
 AID - 10.1016/j.heliyon.2023.e14927 [doi]
@@ -11546,7 +12296,7 @@ PMID- 36942614
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20230405
-LR  - 20230405
+LR  - 20240313
 IS  - 2042-650X (Electronic)
 IS  - 2042-6496 (Linking)
 VI  - 14
@@ -11629,19 +12379,21 @@ PL  - England
 TA  - Food Funct
 JT  - Food & function
 JID - 101549033
-RN  - X2RN3Q8DNE (Galactose)
-RN  - 0 (Flavonoids)
-RN  - I3P9R8317T (phenolic acid)
 RN  - 0 (Plant Extracts)
+RN  - EC 1.15.1.1 (Superoxide Dismutase)
+RN  - 4Y8F71G49Q (Malondialdehyde)
 SB  - IM
-MH  - Mice
-MH  - Animals
-MH  - *Skin Aging
 MH  - *Opuntia/chemistry
-MH  - Galactose/metabolism
-MH  - Flavonoids/analysis
-MH  - Aging
-MH  - Plant Extracts/chemistry
+MH  - *Skin Aging/drug effects
+MH  - *Plant Extracts/chemistry/pharmacology
+MH  - Animals
+MH  - Mice
+MH  - Models, Animal
+MH  - *Skin Cream/chemistry/pharmacology
+MH  - Skin/drug effects/metabolism
+MH  - Superoxide Dismutase/metabolism
+MH  - Malondialdehyde/metabolism
+MH  - Liquid Chromatography-Mass Spectrometry
 EDAT- 2023/03/22 06:00
 MHDA- 2023/04/05 06:42
 CRDT- 2023/03/21 05:13
@@ -11754,99 +12506,6 @@ AID - 10.1002/ecy.4037 [doi]
 PST - ppublish
 SO  - Ecology. 2023 May;104(5):e4037. doi: 10.1002/ecy.4037. Epub 2023 Apr 4.
 
-PMID- 36918726
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20230316
-LR  - 20230418
-IS  - 2045-2322 (Electronic)
-IS  - 2045-2322 (Linking)
-VI  - 13
-IP  - 1
-DP  - 2023 Mar 14
-TI  - Effects of copal resin extraction on the diversity and composition of species in 
-      tropical deciduous forests.
-PG  - 4199
-LID - 10.1038/s41598-023-31423-z [doi]
-LID - 4199
-AB  - Composition and floristic diversity of ecosystems subject to overexploitation, 
-      such as tropical deciduous forests where copal resin (Bursera bipinnata, Bursera 
-      copallifera) is extracted, are of great importance for understanding the 
-      ecological functioning of these ecosystems. This study analyzed the species 
-      composition and diversity in a natural population subject to copal extraction in 
-      San Juan Raboso Izucar de Matamoros, Puebla, Mexico. A total of 54 sampling units 
-      were established, and the number of individuals and crown diameter for each tree 
-      species were recorded. For shrubs, succulents, acaulescent rosetophytes and 
-      climbers, the number of individuals and the area of cover were quantified. Based 
-      on the parameters of abundance, frequency, and relative dominance, the importance 
-      value index (IVI) was calculated. Diversity was evaluated using the Shannon index 
-      [Formula: see text]. In total, 29 species were identified, distributed across 11 
-      botanical families and 21 genera. The Fabaceae family was the richest, followed 
-      by the Burseraceae family, which includes the species that extract copal, but 
-      Opuntia streptacantha was the species with the most ecological weight. In this 
-      study, the Shannon index [Formula: see text] averaged 1.45, which indicates that 
-      the community was mildly diverse.
-CI  - (c) 2023. The Author(s).
-FAU - Garcia-Nunez, Rosa Maria
-AU  - Garcia-Nunez RM
-AUID- ORCID: 0000-0001-7295-1284
-AD  - Maestria en Ciencias en Agroforesteria para el Desarrollo Sostenible, 
-      Departamento de Suelos, Universidad Autonoma Chapingo, Km 38.5 Carretera 
-      Mexico-Texcoco, 56230, Texcoco, Estado de Mexico, Mexico.
-FAU - Buendia-Espinoza, Julio Cesar
-AU  - Buendia-Espinoza JC
-AUID- ORCID: 0000-0002-7939-8861
-AD  - Maestria en Ciencias en Agroforesteria para el Desarrollo Sostenible, 
-      Departamento de Suelos, Universidad Autonoma Chapingo, Km 38.5 Carretera 
-      Mexico-Texcoco, 56230, Texcoco, Estado de Mexico, Mexico. jbuendiae@chapingo.mx.
-FAU - Del Carmen Arrazate-Jimenez, Selene
-AU  - Del Carmen Arrazate-Jimenez S
-AUID- ORCID: 0000-0002-4214-0445
-AD  - Maestria en Ciencias en Agroforesteria para el Desarrollo Sostenible, 
-      Departamento de Suelos, Universidad Autonoma Chapingo, Km 38.5 Carretera 
-      Mexico-Texcoco, 56230, Texcoco, Estado de Mexico, Mexico.
-FAU - Del Carmen Martinez-Ochoa, Elisa
-AU  - Del Carmen Martinez-Ochoa E
-AUID- ORCID: 0000-0002-9416-7332
-AD  - Area de Agronomia, Departamento de Preparatoria Agricola, Universidad Autonoma 
-      Chapingo, Km 38.5 Carretera Mexico-Texcoco, 56230, Texcoco, Estado de Mexico, 
-      Mexico.
-LA  - eng
-PT  - Journal Article
-PT  - Research Support, Non-U.S. Gov't
-DEP - 20230314
-PL  - England
-TA  - Sci Rep
-JT  - Scientific reports
-JID - 101563288
-RN  - 184SNS8VUH (Sulindac)
-RN  - 0 (Resins, Plant)
-SB  - IM
-MH  - Humans
-MH  - *Ecosystem
-MH  - Sulindac
-MH  - Forests
-MH  - Trees
-MH  - *Bursera
-MH  - Resins, Plant/pharmacology
-MH  - Biodiversity
-MH  - Tropical Climate
-PMC - PMC10014994
-COIS- The authors declare no competing interests.
-EDAT- 2023/03/16 06:00
-MHDA- 2023/03/17 06:00
-CRDT- 2023/03/15 01:04
-PHST- 2022/12/20 00:00 [received]
-PHST- 2023/03/11 00:00 [accepted]
-PHST- 2023/03/15 01:04 [entrez]
-PHST- 2023/03/16 06:00 [pubmed]
-PHST- 2023/03/17 06:00 [medline]
-AID - 10.1038/s41598-023-31423-z [pii]
-AID - 31423 [pii]
-AID - 10.1038/s41598-023-31423-z [doi]
-PST - epublish
-SO  - Sci Rep. 2023 Mar 14;13(1):4199. doi: 10.1038/s41598-023-31423-z.
-
 PMID- 36890289
 OWN - NLM
 STAT- MEDLINE
@@ -11952,12 +12611,14 @@ OT  - Tepaloid staminode
 COIS- The authors declare no competing interests.
 EDAT- 2023/03/09 06:00
 MHDA- 2023/08/07 06:42
+PMCR- 2023/03/09
 CRDT- 2023/03/08 23:20
 PHST- 2022/08/24 00:00 [received]
 PHST- 2023/02/24 00:00 [accepted]
 PHST- 2023/08/07 06:42 [medline]
 PHST- 2023/03/09 06:00 [pubmed]
 PHST- 2023/03/08 23:20 [entrez]
+PHST- 2023/03/09 00:00 [pmc-release]
 AID - 10.1007/s00709-023-01846-6 [pii]
 AID - 1846 [pii]
 AID - 10.1007/s00709-023-01846-6 [doi]
@@ -12015,10 +12676,12 @@ EFR - J Plant Res. 2023 Mar;136(2):211-225. PMID: 36690846
 PMC - PMC10125927
 EDAT- 2023/03/07 06:00
 MHDA- 2023/03/07 06:01
+PMCR- 2023/03/07
 CRDT- 2023/03/06 23:22
 PHST- 2023/03/07 06:01 [medline]
 PHST- 2023/03/07 06:00 [pubmed]
 PHST- 2023/03/06 23:22 [entrez]
+PHST- 2023/03/07 00:00 [pmc-release]
 AID - 10.1007/s10265-023-01449-5 [pii]
 AID - 1449 [pii]
 AID - 10.1007/s10265-023-01449-5 [doi]
