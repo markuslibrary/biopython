@@ -7,4 +7,3 @@ This repository contains materials for teaching a 4-part workshop titled "Biopyt
 3. Using Entrez to access data
 4. Repositories and Metadata for Sequence Data
 
-Each workshop will have its own README file to describe its content in more detail.  
